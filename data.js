@@ -8,7 +8,7 @@ const data = [
    "Đơn giá (có VAT)": "1.260.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -19,7 +19,7 @@ const data = [
    "Đơn giá (có VAT)": "5.135.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -30,7 +30,7 @@ const data = [
    "Đơn giá (có VAT)": "12.799",
    "KHO": " TBYT 3 ",
    "Tủ": " A2 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -41,7 +41,7 @@ const data = [
    "Đơn giá (có VAT)": "22.865",
    "KHO": " TBYT 3 ",
    "Tủ": " B1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -52,7 +52,7 @@ const data = [
    "Đơn giá (có VAT)": "5.775",
    "KHO": " TBYT 3 ",
    "Tủ": " F1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -63,7 +63,7 @@ const data = [
    "Đơn giá (có VAT)": "83.790",
    "KHO": " TBYT 3 ",
    "Tủ": " B2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Catheter ",
@@ -74,7 +74,7 @@ const data = [
    "Đơn giá (có VAT)": "259.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Catheter ",
@@ -85,7 +85,7 @@ const data = [
    "Đơn giá (có VAT)": "499.800",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Catheter ",
@@ -96,7 +96,7 @@ const data = [
    "Đơn giá (có VAT)": "2.450.000",
    "KHO": " TBYT 3 ",
    "Tủ": " B1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " ECMO ",
@@ -107,7 +107,7 @@ const data = [
    "Đơn giá (có VAT)": "3.100.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " ECMO ",
@@ -118,7 +118,7 @@ const data = [
    "Đơn giá (có VAT)": "3.100.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -129,7 +129,7 @@ const data = [
    "Đơn giá (có VAT)": "7.600.000",
    "KHO": " TBYT 3 ",
    "Tủ": " B1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -140,7 +140,7 @@ const data = [
    "Đơn giá (có VAT)": "4.400.000",
    "KHO": " TBYT 3 ",
    "Tủ": " B1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -151,7 +151,7 @@ const data = [
    "Đơn giá (có VAT)": "5.700.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -162,7 +162,7 @@ const data = [
    "Đơn giá (có VAT)": "35.700",
    "KHO": " TBYT 3 ",
    "Tủ": " B2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -173,7 +173,7 @@ const data = [
    "Đơn giá (có VAT)": "126.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -184,7 +184,7 @@ const data = [
    "Đơn giá (có VAT)": "8.700",
    "KHO": " TBYT 3 ",
    "Tủ": " E1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -195,7 +195,7 @@ const data = [
    "Đơn giá (có VAT)": "5.157",
    "KHO": " TBYT 3 ",
    "Tủ": " E1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -206,7 +206,7 @@ const data = [
    "Đơn giá (có VAT)": "2.450.000",
    "KHO": " TBYT 3 ",
    "Tủ": " E1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -217,7 +217,7 @@ const data = [
    "Đơn giá (có VAT)": "230.500",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Tim ",
@@ -228,7 +228,7 @@ const data = [
    "Đơn giá (có VAT)": "24.950.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -239,7 +239,7 @@ const data = [
    "Đơn giá (có VAT)": "24.950.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -250,7 +250,7 @@ const data = [
    "Đơn giá (có VAT)": "300.104",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -261,7 +261,7 @@ const data = [
    "Đơn giá (có VAT)": "165.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -272,7 +272,7 @@ const data = [
    "Đơn giá (có VAT)": "178.290",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -283,7 +283,7 @@ const data = [
    "Đơn giá (có VAT)": "6.300.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -294,7 +294,7 @@ const data = [
    "Đơn giá (có VAT)": "2.596",
    "KHO": " TBYT 3 ",
    "Tủ": " G1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -305,7 +305,7 @@ const data = [
    "Đơn giá (có VAT)": "3.024",
    "KHO": " TBYT 3 ",
    "Tủ": " G1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -316,7 +316,7 @@ const data = [
    "Đơn giá (có VAT)": "7.350",
    "KHO": " TBYT 3 ",
    "Tủ": " A2 ",
-   "Tầng": 5
+   "Tầng": "5"
  },
  {
    "Nhóm": " Chung ",
@@ -327,7 +327,7 @@ const data = [
    "Đơn giá (có VAT)": "467",
    "KHO": " TBYT 3 ",
    "Tủ": " F1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -338,7 +338,7 @@ const data = [
    "Đơn giá (có VAT)": "1.750",
    "KHO": " TBYT 3 ",
    "Tủ": " A2 ",
-   "Tầng": 5
+   "Tầng": "5"
  },
  {
    "Nhóm": " Chung ",
@@ -349,7 +349,7 @@ const data = [
    "Đơn giá (có VAT)": "2.570",
    "KHO": " TBYT 3 ",
    "Tủ": " G1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -360,7 +360,7 @@ const data = [
    "Đơn giá (có VAT)": "3.050",
    "KHO": " TBYT 3 ",
    "Tủ": " G1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -371,7 +371,7 @@ const data = [
    "Đơn giá (có VAT)": "965",
    "KHO": " TBYT 3 ",
    "Tủ": " F2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -382,7 +382,7 @@ const data = [
    "Đơn giá (có VAT)": "560",
    "KHO": " TBYT 3 ",
    "Tủ": " G2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -393,7 +393,7 @@ const data = [
    "Đơn giá (có VAT)": "1.186",
    "KHO": " TBYT 3 ",
    "Tủ": " F2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -404,7 +404,7 @@ const data = [
    "Đơn giá (có VAT)": "470",
    "KHO": " TBYT 3 ",
    "Tủ": " F1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -415,7 +415,7 @@ const data = [
    "Đơn giá (có VAT)": "2.520",
    "KHO": " TBYT 3 ",
    "Tủ": " E1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Tim ",
@@ -426,7 +426,7 @@ const data = [
    "Đơn giá (có VAT)": "13.500.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -437,7 +437,7 @@ const data = [
    "Đơn giá (có VAT)": "3.300.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -448,7 +448,7 @@ const data = [
    "Đơn giá (có VAT)": "608.985",
    "KHO": " TBYT 3 ",
    "Tủ": " E1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Tim ",
@@ -459,7 +459,7 @@ const data = [
    "Đơn giá (có VAT)": "735.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -470,7 +470,7 @@ const data = [
    "Đơn giá (có VAT)": "735.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -481,7 +481,7 @@ const data = [
    "Đơn giá (có VAT)": "3.200.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " ECMO ",
@@ -492,7 +492,18 @@ const data = [
    "Đơn giá (có VAT)": "12.000.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
+ },
+ {
+   "Nhóm": "",
+   "Mã dược": "",
+   "Tên thuốc, nồng độ, hàm lượng": "",
+   "Tên hoạt chất": "",
+   "Đơn vị tính": "",
+   "Đơn giá (có VAT)": "",
+   "KHO": "",
+   "Tủ": "",
+   "Tầng": ""
  },
  {
    "Nhóm": " ECMO ",
@@ -503,7 +514,7 @@ const data = [
    "Đơn giá (có VAT)": "18.200.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " ECMO ",
@@ -514,7 +525,7 @@ const data = [
    "Đơn giá (có VAT)": "16.500.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -525,7 +536,7 @@ const data = [
    "Đơn giá (có VAT)": "1.050.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -536,7 +547,7 @@ const data = [
    "Đơn giá (có VAT)": "840.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -547,7 +558,7 @@ const data = [
    "Đơn giá (có VAT)": "1.500.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -558,7 +569,7 @@ const data = [
    "Đơn giá (có VAT)": "9.000.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -569,7 +580,7 @@ const data = [
    "Đơn giá (có VAT)": "9.000.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -580,7 +591,7 @@ const data = [
    "Đơn giá (có VAT)": "2.790.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -591,7 +602,7 @@ const data = [
    "Đơn giá (có VAT)": "2.799.993",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -602,7 +613,7 @@ const data = [
    "Đơn giá (có VAT)": "1.368.100",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -613,7 +624,7 @@ const data = [
    "Đơn giá (có VAT)": "1.381.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -624,7 +635,7 @@ const data = [
    "Đơn giá (có VAT)": "3.050.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -635,7 +646,7 @@ const data = [
    "Đơn giá (có VAT)": "2.400.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -646,7 +657,7 @@ const data = [
    "Đơn giá (có VAT)": "9.385.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Catheter ",
@@ -657,7 +668,7 @@ const data = [
    "Đơn giá (có VAT)": "108.750",
    "KHO": " TBYT 3 ",
    "Tủ": " E1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -668,7 +679,7 @@ const data = [
    "Đơn giá (có VAT)": "590.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -679,7 +690,7 @@ const data = [
    "Đơn giá (có VAT)": "17.300",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -690,7 +701,7 @@ const data = [
    "Đơn giá (có VAT)": "17.500",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -701,7 +712,7 @@ const data = [
    "Đơn giá (có VAT)": " - ",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -712,7 +723,7 @@ const data = [
    "Đơn giá (có VAT)": "143.766",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -723,7 +734,7 @@ const data = [
    "Đơn giá (có VAT)": "143.990",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -734,7 +745,7 @@ const data = [
    "Đơn giá (có VAT)": "18.000",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -745,7 +756,7 @@ const data = [
    "Đơn giá (có VAT)": "182.000",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -756,7 +767,7 @@ const data = [
    "Đơn giá (có VAT)": "26.250",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -767,7 +778,7 @@ const data = [
    "Đơn giá (có VAT)": " - ",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -778,7 +789,7 @@ const data = [
    "Đơn giá (có VAT)": "497.875",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -789,7 +800,7 @@ const data = [
    "Đơn giá (có VAT)": "1.056.213",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -800,7 +811,7 @@ const data = [
    "Đơn giá (có VAT)": "22.300",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -811,7 +822,7 @@ const data = [
    "Đơn giá (có VAT)": "205.063",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -822,7 +833,7 @@ const data = [
    "Đơn giá (có VAT)": "15.225",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -833,7 +844,7 @@ const data = [
    "Đơn giá (có VAT)": "38.850",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -844,7 +855,7 @@ const data = [
    "Đơn giá (có VAT)": "36.225",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -855,7 +866,7 @@ const data = [
    "Đơn giá (có VAT)": "36.225",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -866,7 +877,7 @@ const data = [
    "Đơn giá (có VAT)": "44.100",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -877,7 +888,7 @@ const data = [
    "Đơn giá (có VAT)": "44.940",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -888,7 +899,7 @@ const data = [
    "Đơn giá (có VAT)": "416.852",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -899,7 +910,7 @@ const data = [
    "Đơn giá (có VAT)": "64.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -910,7 +921,7 @@ const data = [
    "Đơn giá (có VAT)": "55.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -921,7 +932,7 @@ const data = [
    "Đơn giá (có VAT)": "84.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -932,7 +943,7 @@ const data = [
    "Đơn giá (có VAT)": "84.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -943,7 +954,7 @@ const data = [
    "Đơn giá (có VAT)": "15.790.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -954,7 +965,7 @@ const data = [
    "Đơn giá (có VAT)": "5.650.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -965,7 +976,7 @@ const data = [
    "Đơn giá (có VAT)": "2.150.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -976,7 +987,7 @@ const data = [
    "Đơn giá (có VAT)": "52.090",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -987,7 +998,7 @@ const data = [
    "Đơn giá (có VAT)": "2.415.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -998,7 +1009,7 @@ const data = [
    "Đơn giá (có VAT)": "1.800.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1009,7 +1020,7 @@ const data = [
    "Đơn giá (có VAT)": "178.400",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -1020,7 +1031,7 @@ const data = [
    "Đơn giá (có VAT)": "1.207.500",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1031,7 +1042,7 @@ const data = [
    "Đơn giá (có VAT)": "1.790",
    "KHO": " TBYT 3 ",
    "Tủ": " E2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1042,7 +1053,7 @@ const data = [
    "Đơn giá (có VAT)": "10.500",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1053,7 +1064,7 @@ const data = [
    "Đơn giá (có VAT)": "16.500",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1064,7 +1075,7 @@ const data = [
    "Đơn giá (có VAT)": "4.620",
    "KHO": " TBYT 3 ",
    "Tủ": " D1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1075,7 +1086,7 @@ const data = [
    "Đơn giá (có VAT)": "3.200",
    "KHO": " TBYT 3 ",
    "Tủ": " C1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -1086,7 +1097,7 @@ const data = [
    "Đơn giá (có VAT)": "3.000",
    "KHO": " TBYT 3 ",
    "Tủ": " C1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " TIM ",
@@ -1097,7 +1108,7 @@ const data = [
    "Đơn giá (có VAT)": "12.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1108,7 +1119,7 @@ const data = [
    "Đơn giá (có VAT)": "3.693",
    "KHO": " TBYT 3 ",
    "Tủ": " C1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1119,7 +1130,7 @@ const data = [
    "Đơn giá (có VAT)": "195.000",
    "KHO": " TBYT 3 ",
    "Tủ": " D1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1130,7 +1141,7 @@ const data = [
    "Đơn giá (có VAT)": "3.689",
    "KHO": " TBYT 3 ",
    "Tủ": " C1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1141,7 +1152,7 @@ const data = [
    "Đơn giá (có VAT)": "3.689",
    "KHO": " TBYT 3 ",
    "Tủ": " C1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1152,7 +1163,7 @@ const data = [
    "Đơn giá (có VAT)": "4.708",
    "KHO": " TBYT 3 ",
    "Tủ": " E1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1163,7 +1174,7 @@ const data = [
    "Đơn giá (có VAT)": "44.100",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1174,7 +1185,7 @@ const data = [
    "Đơn giá (có VAT)": "24.354",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1185,7 +1196,7 @@ const data = [
    "Đơn giá (có VAT)": "50.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -1196,7 +1207,7 @@ const data = [
    "Đơn giá (có VAT)": "25.410.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -1207,7 +1218,7 @@ const data = [
    "Đơn giá (có VAT)": "35.500.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -1218,7 +1229,7 @@ const data = [
    "Đơn giá (có VAT)": "11.450.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1229,7 +1240,7 @@ const data = [
    "Đơn giá (có VAT)": "1.520.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1240,7 +1251,7 @@ const data = [
    "Đơn giá (có VAT)": "4.389",
    "KHO": " TBYT 3 ",
    "Tủ": " A2 ",
-   "Tầng": 5
+   "Tầng": "5"
  },
  {
    "Nhóm": " Tim ",
@@ -1251,7 +1262,7 @@ const data = [
    "Đơn giá (có VAT)": "9.845.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1262,7 +1273,7 @@ const data = [
    "Đơn giá (có VAT)": "832",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1273,7 +1284,7 @@ const data = [
    "Đơn giá (có VAT)": "12.980",
    "KHO": " TBYT 3 ",
    "Tủ": " F1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -1284,7 +1295,7 @@ const data = [
    "Đơn giá (có VAT)": "990",
    "KHO": " TBYT 3 ",
    "Tủ": " G1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -1295,7 +1306,7 @@ const data = [
    "Đơn giá (có VAT)": "2.575",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1306,7 +1317,7 @@ const data = [
    "Đơn giá (có VAT)": "2.900",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -1317,7 +1328,7 @@ const data = [
    "Đơn giá (có VAT)": "2.079.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1328,7 +1339,7 @@ const data = [
    "Đơn giá (có VAT)": "558.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1338,8 +1349,8 @@ const data = [
    "Đơn vị tính": " Bộ ",
    "Đơn giá (có VAT)": "545.000",
    "KHO": " TBYT 3 ",
-   "Tủ": "",
-   "Tầng": null
+   "Tủ": " A1 ",
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1350,7 +1361,7 @@ const data = [
    "Đơn giá (có VAT)": "9.600",
    "KHO": " TBYT 3 ",
    "Tủ": " E1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -1361,7 +1372,7 @@ const data = [
    "Đơn giá (có VAT)": "140.152",
    "KHO": " TBYT 3 ",
    "Tủ": " A2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1372,7 +1383,7 @@ const data = [
    "Đơn giá (có VAT)": "181.920",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1383,7 +1394,7 @@ const data = [
    "Đơn giá (có VAT)": "11.925.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1394,7 +1405,7 @@ const data = [
    "Đơn giá (có VAT)": "260.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1405,7 +1416,7 @@ const data = [
    "Đơn giá (có VAT)": "260.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1416,7 +1427,7 @@ const data = [
    "Đơn giá (có VAT)": "1.020",
    "KHO": " TBYT 3 ",
    "Tủ": " A2 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -1427,7 +1438,7 @@ const data = [
    "Đơn giá (có VAT)": "2.588",
    "KHO": " TBYT 3 ",
    "Tủ": " A2 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -1438,7 +1449,7 @@ const data = [
    "Đơn giá (có VAT)": "4.100",
    "KHO": " TBYT 3 ",
    "Tủ": " A2 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -1449,7 +1460,7 @@ const data = [
    "Đơn giá (có VAT)": "1.500",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1460,7 +1471,7 @@ const data = [
    "Đơn giá (có VAT)": "39.872",
    "KHO": " TBYT 3 ",
    "Tủ": " C2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1471,7 +1482,7 @@ const data = [
    "Đơn giá (có VAT)": "170.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1482,7 +1493,7 @@ const data = [
    "Đơn giá (có VAT)": "162.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1493,7 +1504,7 @@ const data = [
    "Đơn giá (có VAT)": "314.790",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1504,7 +1515,7 @@ const data = [
    "Đơn giá (có VAT)": "11.200",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -1515,7 +1526,7 @@ const data = [
    "Đơn giá (có VAT)": "12.700",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -1526,7 +1537,7 @@ const data = [
    "Đơn giá (có VAT)": " - ",
    "KHO": " TBYT 3 ",
    "Tủ": " C2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1537,7 +1548,7 @@ const data = [
    "Đơn giá (có VAT)": " - ",
    "KHO": " TBYT 3 ",
    "Tủ": " C2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1548,7 +1559,7 @@ const data = [
    "Đơn giá (có VAT)": "15.620",
    "KHO": " TBYT 3 ",
    "Tủ": " C2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1559,7 +1570,7 @@ const data = [
    "Đơn giá (có VAT)": "16.000",
    "KHO": " TBYT 3 ",
    "Tủ": " C2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1570,7 +1581,7 @@ const data = [
    "Đơn giá (có VAT)": "16.000",
    "KHO": " TBYT 3 ",
    "Tủ": " C2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1581,7 +1592,7 @@ const data = [
    "Đơn giá (có VAT)": "406.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1592,7 +1603,7 @@ const data = [
    "Đơn giá (có VAT)": "1.538.700",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1603,7 +1614,7 @@ const data = [
    "Đơn giá (có VAT)": "720.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1614,7 +1625,7 @@ const data = [
    "Đơn giá (có VAT)": "720.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1625,7 +1636,7 @@ const data = [
    "Đơn giá (có VAT)": "212",
    "KHO": " TBYT 3 ",
    "Tủ": " G2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1636,7 +1647,7 @@ const data = [
    "Đơn giá (có VAT)": "165",
    "KHO": " TBYT 3 ",
    "Tủ": " G2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1647,7 +1658,7 @@ const data = [
    "Đơn giá (có VAT)": "1.590",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1658,7 +1669,7 @@ const data = [
    "Đơn giá (có VAT)": "2.169.300",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1669,7 +1680,7 @@ const data = [
    "Đơn giá (có VAT)": "58.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1680,7 +1691,7 @@ const data = [
    "Đơn giá (có VAT)": "1.176",
    "KHO": " TBYT 3 ",
    "Tủ": " B1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1691,7 +1702,7 @@ const data = [
    "Đơn giá (có VAT)": "1.113",
    "KHO": " TBYT 3 ",
    "Tủ": " B1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Tim ",
@@ -1702,7 +1713,7 @@ const data = [
    "Đơn giá (có VAT)": "9.990.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Tim ",
@@ -1713,7 +1724,7 @@ const data = [
    "Đơn giá (có VAT)": "10.250.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -1724,7 +1735,7 @@ const data = [
    "Đơn giá (có VAT)": "1.470.000",
    "KHO": " TBYT 3 ",
    "Tủ": " E1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -1735,7 +1746,7 @@ const data = [
    "Đơn giá (có VAT)": "1.680.000",
    "KHO": " TBYT 3 ",
    "Tủ": " E1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -1746,7 +1757,7 @@ const data = [
    "Đơn giá (có VAT)": "180.000",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -1757,7 +1768,7 @@ const data = [
    "Đơn giá (có VAT)": "142.170",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -1768,7 +1779,7 @@ const data = [
    "Đơn giá (có VAT)": "163.535",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -1779,7 +1790,7 @@ const data = [
    "Đơn giá (có VAT)": "101.000",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -1790,7 +1801,7 @@ const data = [
    "Đơn giá (có VAT)": "92.200",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -1801,7 +1812,7 @@ const data = [
    "Đơn giá (có VAT)": "107.800",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -1812,7 +1823,7 @@ const data = [
    "Đơn giá (có VAT)": "132.091",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1823,7 +1834,7 @@ const data = [
    "Đơn giá (có VAT)": "39.417.000",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -1834,7 +1845,7 @@ const data = [
    "Đơn giá (có VAT)": "83.000",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -1845,7 +1856,7 @@ const data = [
    "Đơn giá (có VAT)": "695",
    "KHO": " TBYT 3 ",
    "Tủ": " A2 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -1856,7 +1867,7 @@ const data = [
    "Đơn giá (có VAT)": "86.000",
    "KHO": " TBYT 3 ",
    "Tủ": " B2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1867,7 +1878,7 @@ const data = [
    "Đơn giá (có VAT)": "400",
    "KHO": " TBYT 3 ",
    "Tủ": " A2 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -1878,7 +1889,7 @@ const data = [
    "Đơn giá (có VAT)": "16.000",
    "KHO": " TBYT 3 ",
    "Tủ": " B2 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -1889,7 +1900,7 @@ const data = [
    "Đơn giá (có VAT)": "378.009",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1900,7 +1911,7 @@ const data = [
    "Đơn giá (có VAT)": "63.000",
    "KHO": " TBYT 3 ",
    "Tủ": " C1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -1911,7 +1922,7 @@ const data = [
    "Đơn giá (có VAT)": "16.000",
    "KHO": " TBYT 3 ",
    "Tủ": " C1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -1922,7 +1933,7 @@ const data = [
    "Đơn giá (có VAT)": "315.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1933,7 +1944,7 @@ const data = [
    "Đơn giá (có VAT)": "2.650",
    "KHO": " TBYT 3 ",
    "Tủ": " D2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1944,7 +1955,7 @@ const data = [
    "Đơn giá (có VAT)": "3.010",
    "KHO": " TBYT 3 ",
    "Tủ": " D2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1955,7 +1966,7 @@ const data = [
    "Đơn giá (có VAT)": "2.650",
    "KHO": " TBYT 3 ",
    "Tủ": " E2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1966,7 +1977,7 @@ const data = [
    "Đơn giá (có VAT)": "839.790",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -1977,7 +1988,7 @@ const data = [
    "Đơn giá (có VAT)": "6.048",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -1988,7 +1999,7 @@ const data = [
    "Đơn giá (có VAT)": "4.000",
    "KHO": " TBYT 3 ",
    "Tủ": " E1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -1999,7 +2010,7 @@ const data = [
    "Đơn giá (có VAT)": "7.000",
    "KHO": " TBYT 3 ",
    "Tủ": " E2 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -2010,7 +2021,7 @@ const data = [
    "Đơn giá (có VAT)": "119.800",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -2021,7 +2032,7 @@ const data = [
    "Đơn giá (có VAT)": "135.800",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -2032,7 +2043,7 @@ const data = [
    "Đơn giá (có VAT)": "135.800",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -2043,7 +2054,7 @@ const data = [
    "Đơn giá (có VAT)": "181.045",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -2054,7 +2065,7 @@ const data = [
    "Đơn giá (có VAT)": "216.880",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -2065,7 +2076,7 @@ const data = [
    "Đơn giá (có VAT)": "679.800",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -2076,7 +2087,7 @@ const data = [
    "Đơn giá (có VAT)": "16.695",
    "KHO": " TBYT 3 ",
    "Tủ": " B1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -2087,7 +2098,7 @@ const data = [
    "Đơn giá (có VAT)": "62.790",
    "KHO": " TBYT 3 ",
    "Tủ": " C1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " ECMO ",
@@ -2098,7 +2109,7 @@ const data = [
    "Đơn giá (có VAT)": "78.200.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2109,7 +2120,7 @@ const data = [
    "Đơn giá (có VAT)": "9.280.080",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2120,7 +2131,7 @@ const data = [
    "Đơn giá (có VAT)": "12.600.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " ECMO ",
@@ -2131,7 +2142,7 @@ const data = [
    "Đơn giá (có VAT)": "78.400.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2142,7 +2153,7 @@ const data = [
    "Đơn giá (có VAT)": "1.600.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -2153,7 +2164,7 @@ const data = [
    "Đơn giá (có VAT)": "92.538",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -2164,7 +2175,7 @@ const data = [
    "Đơn giá (có VAT)": "112.800",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -2175,7 +2186,7 @@ const data = [
    "Đơn giá (có VAT)": "204.600",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Tim ",
@@ -2186,7 +2197,7 @@ const data = [
    "Đơn giá (có VAT)": "2.300.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2197,7 +2208,7 @@ const data = [
    "Đơn giá (có VAT)": "630.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2208,7 +2219,7 @@ const data = [
    "Đơn giá (có VAT)": "520.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2219,7 +2230,7 @@ const data = [
    "Đơn giá (có VAT)": "520.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2230,7 +2241,7 @@ const data = [
    "Đơn giá (có VAT)": "550.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2241,7 +2252,7 @@ const data = [
    "Đơn giá (có VAT)": "550.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2252,7 +2263,7 @@ const data = [
    "Đơn giá (có VAT)": "630.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2263,7 +2274,7 @@ const data = [
    "Đơn giá (có VAT)": "525.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2274,7 +2285,7 @@ const data = [
    "Đơn giá (có VAT)": "525.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2285,7 +2296,7 @@ const data = [
    "Đơn giá (có VAT)": "525.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2296,7 +2307,7 @@ const data = [
    "Đơn giá (có VAT)": "630.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2307,7 +2318,7 @@ const data = [
    "Đơn giá (có VAT)": "16.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2318,7 +2329,7 @@ const data = [
    "Đơn giá (có VAT)": "1.050.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2329,7 +2340,7 @@ const data = [
    "Đơn giá (có VAT)": "1.323.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2340,7 +2351,7 @@ const data = [
    "Đơn giá (có VAT)": "312.900",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2351,7 +2362,7 @@ const data = [
    "Đơn giá (có VAT)": "280.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2362,7 +2373,7 @@ const data = [
    "Đơn giá (có VAT)": "39.872",
    "KHO": " TBYT 3 ",
    "Tủ": " C2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -2373,7 +2384,7 @@ const data = [
    "Đơn giá (có VAT)": "275.000",
    "KHO": " TBYT 3 ",
    "Tủ": " P1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -2384,7 +2395,7 @@ const data = [
    "Đơn giá (có VAT)": "99.960",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chỉ PT ",
@@ -2395,7 +2406,7 @@ const data = [
    "Đơn giá (có VAT)": "54.600",
    "KHO": " TBYT 3 ",
    "Tủ": "  P1  ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -2406,7 +2417,7 @@ const data = [
    "Đơn giá (có VAT)": "17.496",
    "KHO": " TBYT 3 ",
    "Tủ": "  P1  ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -2417,7 +2428,7 @@ const data = [
    "Đơn giá (có VAT)": "115.000",
    "KHO": " TBYT 3 ",
    "Tủ": "   P1   ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -2428,7 +2439,7 @@ const data = [
    "Đơn giá (có VAT)": "23.100",
    "KHO": " TBYT 3 ",
    "Tủ": " D1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -2439,7 +2450,7 @@ const data = [
    "Đơn giá (có VAT)": "21.000.000",
    "KHO": " TBYT 3 ",
    "Tủ": "   P1   ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -2450,7 +2461,7 @@ const data = [
    "Đơn giá (có VAT)": "21.000.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2461,7 +2472,7 @@ const data = [
    "Đơn giá (có VAT)": "21.000.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2472,7 +2483,7 @@ const data = [
    "Đơn giá (có VAT)": "2.719.920",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2483,7 +2494,7 @@ const data = [
    "Đơn giá (có VAT)": "2.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Tim ",
@@ -2494,7 +2505,7 @@ const data = [
    "Đơn giá (có VAT)": "2.415.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2505,7 +2516,7 @@ const data = [
    "Đơn giá (có VAT)": "3.245",
    "KHO": " TBYT 3 ",
    "Tủ": " B1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -2516,7 +2527,7 @@ const data = [
    "Đơn giá (có VAT)": "1.300.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2527,7 +2538,7 @@ const data = [
    "Đơn giá (có VAT)": "4.289",
    "KHO": " TBYT 3 ",
    "Tủ": " E1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -2538,7 +2549,7 @@ const data = [
    "Đơn giá (có VAT)": "85.000",
    "KHO": " TBYT 3 ",
    "Tủ": " E1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Tim ",
@@ -2549,7 +2560,7 @@ const data = [
    "Đơn giá (có VAT)": "3.200.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Tim ",
@@ -2560,7 +2571,7 @@ const data = [
    "Đơn giá (có VAT)": "2.920.000",
    "KHO": " TBYT 3 ",
    "Tủ": " TIM ",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2571,7 +2582,7 @@ const data = [
    "Đơn giá (có VAT)": "27.500.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2582,7 +2593,7 @@ const data = [
    "Đơn giá (có VAT)": "5.200.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2593,7 +2604,7 @@ const data = [
    "Đơn giá (có VAT)": "479.036",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2604,7 +2615,7 @@ const data = [
    "Đơn giá (có VAT)": "30.922",
    "KHO": " TBYT 3 ",
    "Tủ": "   P1   ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -2615,7 +2626,7 @@ const data = [
    "Đơn giá (có VAT)": "18.800",
    "KHO": " TBYT 3 ",
    "Tủ": "   P1   ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -2626,7 +2637,7 @@ const data = [
    "Đơn giá (có VAT)": "44.900",
    "KHO": " TBYT 3 ",
    "Tủ": "   P1   ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -2637,7 +2648,7 @@ const data = [
    "Đơn giá (có VAT)": "212.100",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2648,7 +2659,7 @@ const data = [
    "Đơn giá (có VAT)": "162.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -2659,7 +2670,7 @@ const data = [
    "Đơn giá (có VAT)": "600",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -2670,7 +2681,7 @@ const data = [
    "Đơn giá (có VAT)": "531",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -2681,7 +2692,7 @@ const data = [
    "Đơn giá (có VAT)": "183",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -2692,7 +2703,7 @@ const data = [
    "Đơn giá (có VAT)": "1.950",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -2703,7 +2714,7 @@ const data = [
    "Đơn giá (có VAT)": "17.500",
    "KHO": " TBYT 3 ",
    "Tủ": " H1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -2714,7 +2725,7 @@ const data = [
    "Đơn giá (có VAT)": "15.750",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -2725,7 +2736,7 @@ const data = [
    "Đơn giá (có VAT)": "50.000",
    "KHO": " TBYT 3 ",
    "Tủ": " B1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -2736,7 +2747,7 @@ const data = [
    "Đơn giá (có VAT)": "12.500",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -2747,7 +2758,7 @@ const data = [
    "Đơn giá (có VAT)": "6.500",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -2758,7 +2769,7 @@ const data = [
    "Đơn giá (có VAT)": "104.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2769,7 +2780,7 @@ const data = [
    "Đơn giá (có VAT)": "604",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -2780,7 +2791,7 @@ const data = [
    "Đơn giá (có VAT)": "14.700",
    "KHO": " TBYT 3 ",
    "Tủ": " H1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -2791,7 +2802,7 @@ const data = [
    "Đơn giá (có VAT)": "27.980",
    "KHO": " TBYT 3 ",
    "Tủ": " H2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -2802,7 +2813,7 @@ const data = [
    "Đơn giá (có VAT)": "238.000",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2813,7 +2824,7 @@ const data = [
    "Đơn giá (có VAT)": "297.000",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2824,7 +2835,7 @@ const data = [
    "Đơn giá (có VAT)": "259.350",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2835,7 +2846,7 @@ const data = [
    "Đơn giá (có VAT)": "45.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -2846,7 +2857,7 @@ const data = [
    "Đơn giá (có VAT)": "94.000",
    "KHO": " TBYT 2 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2857,7 +2868,7 @@ const data = [
    "Đơn giá (có VAT)": "3.780",
    "KHO": " TBYT 3 ",
    "Tủ": " H1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -2868,7 +2879,7 @@ const data = [
    "Đơn giá (có VAT)": "3.780",
    "KHO": " TBYT 3 ",
    "Tủ": " H1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -2879,7 +2890,7 @@ const data = [
    "Đơn giá (có VAT)": "4.200",
    "KHO": " TBYT 3 ",
    "Tủ": " H1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -2890,7 +2901,7 @@ const data = [
    "Đơn giá (có VAT)": "990",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -2901,7 +2912,7 @@ const data = [
    "Đơn giá (có VAT)": "1.045",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2912,7 +2923,7 @@ const data = [
    "Đơn giá (có VAT)": "4.110",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2923,7 +2934,7 @@ const data = [
    "Đơn giá (có VAT)": "9.200",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2934,7 +2945,7 @@ const data = [
    "Đơn giá (có VAT)": "8.450",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2945,7 +2956,7 @@ const data = [
    "Đơn giá (có VAT)": "94.899",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2956,7 +2967,7 @@ const data = [
    "Đơn giá (có VAT)": "73.313",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2967,7 +2978,7 @@ const data = [
    "Đơn giá (có VAT)": "94.300",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2978,7 +2989,7 @@ const data = [
    "Đơn giá (có VAT)": "18.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -2989,7 +3000,7 @@ const data = [
    "Đơn giá (có VAT)": "77.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3000,7 +3011,7 @@ const data = [
    "Đơn giá (có VAT)": "640.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3011,7 +3022,7 @@ const data = [
    "Đơn giá (có VAT)": "213.675",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3022,7 +3033,7 @@ const data = [
    "Đơn giá (có VAT)": "85.701",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3033,7 +3044,7 @@ const data = [
    "Đơn giá (có VAT)": "2.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3044,7 +3055,7 @@ const data = [
    "Đơn giá (có VAT)": "79",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3055,7 +3066,7 @@ const data = [
    "Đơn giá (có VAT)": "56.500",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3066,7 +3077,7 @@ const data = [
    "Đơn giá (có VAT)": "43.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3077,7 +3088,7 @@ const data = [
    "Đơn giá (có VAT)": "10.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3088,7 +3099,7 @@ const data = [
    "Đơn giá (có VAT)": "10.500",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3099,7 +3110,7 @@ const data = [
    "Đơn giá (có VAT)": "10.200",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3110,7 +3121,7 @@ const data = [
    "Đơn giá (có VAT)": "19.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3121,7 +3132,7 @@ const data = [
    "Đơn giá (có VAT)": "135.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3132,7 +3143,7 @@ const data = [
    "Đơn giá (có VAT)": "620.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3143,7 +3154,7 @@ const data = [
    "Đơn giá (có VAT)": "787.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3154,7 +3165,7 @@ const data = [
    "Đơn giá (có VAT)": "1.254",
    "KHO": "  TBYT 3  ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3165,7 +3176,7 @@ const data = [
    "Đơn giá (có VAT)": "230.000",
    "KHO": "  TBYT 3  ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3176,7 +3187,7 @@ const data = [
    "Đơn giá (có VAT)": "120.000",
    "KHO": "  TBYT 3  ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3187,7 +3198,7 @@ const data = [
    "Đơn giá (có VAT)": "90.000",
    "KHO": "  TBYT 3  ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3198,7 +3209,7 @@ const data = [
    "Đơn giá (có VAT)": "3.350",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3209,7 +3220,7 @@ const data = [
    "Đơn giá (có VAT)": "4.900",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3220,7 +3231,7 @@ const data = [
    "Đơn giá (có VAT)": " - ",
    "KHO": "  TBYT 3  ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3231,7 +3242,7 @@ const data = [
    "Đơn giá (có VAT)": "385",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3242,7 +3253,7 @@ const data = [
    "Đơn giá (có VAT)": "240",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3253,7 +3264,7 @@ const data = [
    "Đơn giá (có VAT)": "3.788",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3264,7 +3275,7 @@ const data = [
    "Đơn giá (có VAT)": "8.000",
    "KHO": " TBYT 2 ",
    "Tủ": " H1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -3275,7 +3286,7 @@ const data = [
    "Đơn giá (có VAT)": "8.000",
    "KHO": " TBYT 2 ",
    "Tủ": " H1 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -3286,7 +3297,7 @@ const data = [
    "Đơn giá (có VAT)": "165.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -3297,7 +3308,7 @@ const data = [
    "Đơn giá (có VAT)": "165.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -3308,7 +3319,7 @@ const data = [
    "Đơn giá (có VAT)": "22.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -3319,7 +3330,7 @@ const data = [
    "Đơn giá (có VAT)": "12.100",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -3330,7 +3341,7 @@ const data = [
    "Đơn giá (có VAT)": "396.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3341,7 +3352,7 @@ const data = [
    "Đơn giá (có VAT)": "51.500",
    "KHO": " TBYT 3 ",
    "Tủ": " H2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3352,7 +3363,7 @@ const data = [
    "Đơn giá (có VAT)": "71.000",
    "KHO": " TBYT 3 ",
    "Tủ": " H2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3363,7 +3374,7 @@ const data = [
    "Đơn giá (có VAT)": "95.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -3374,7 +3385,7 @@ const data = [
    "Đơn giá (có VAT)": "461.000",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3385,7 +3396,7 @@ const data = [
    "Đơn giá (có VAT)": "463.500",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3396,7 +3407,7 @@ const data = [
    "Đơn giá (có VAT)": "56.700",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3407,7 +3418,7 @@ const data = [
    "Đơn giá (có VAT)": "1.000",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3418,7 +3429,7 @@ const data = [
    "Đơn giá (có VAT)": "622",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3429,7 +3440,7 @@ const data = [
    "Đơn giá (có VAT)": "880",
    "KHO": " TBYT 3 ",
    "Tủ": " H2 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -3440,7 +3451,7 @@ const data = [
    "Đơn giá (có VAT)": "290",
    "KHO": " TBYT 3 ",
    "Tủ": " H2 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3451,7 +3462,7 @@ const data = [
    "Đơn giá (có VAT)": "1.300",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3462,7 +3473,7 @@ const data = [
    "Đơn giá (có VAT)": "220",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -3473,7 +3484,7 @@ const data = [
    "Đơn giá (có VAT)": "399.000",
    "KHO": " TBYT 3 ",
    "Tủ": " H1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3484,7 +3495,7 @@ const data = [
    "Đơn giá (có VAT)": "928.000",
    "KHO": " TBYT 3 ",
    "Tủ": " H1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3495,7 +3506,7 @@ const data = [
    "Đơn giá (có VAT)": "300.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3506,7 +3517,7 @@ const data = [
    "Đơn giá (có VAT)": "357.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3517,7 +3528,7 @@ const data = [
    "Đơn giá (có VAT)": "65.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -3528,7 +3539,7 @@ const data = [
    "Đơn giá (có VAT)": "36.540",
    "KHO": " TBYT 3 ",
    "Tủ": " H1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3539,7 +3550,7 @@ const data = [
    "Đơn giá (có VAT)": "5.780",
    "KHO": " TBYT 3 ",
    "Tủ": " G1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -3550,7 +3561,7 @@ const data = [
    "Đơn giá (có VAT)": "7.000",
    "KHO": " TBYT 3 ",
    "Tủ": " G1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -3561,7 +3572,7 @@ const data = [
    "Đơn giá (có VAT)": "906",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3572,7 +3583,7 @@ const data = [
    "Đơn giá (có VAT)": "1.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3583,7 +3594,7 @@ const data = [
    "Đơn giá (có VAT)": "190.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A1 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -3594,7 +3605,7 @@ const data = [
    "Đơn giá (có VAT)": " - ",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3605,7 +3616,7 @@ const data = [
    "Đơn giá (có VAT)": "14.500",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3616,7 +3627,7 @@ const data = [
    "Đơn giá (có VAT)": "14.500",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3627,7 +3638,7 @@ const data = [
    "Đơn giá (có VAT)": "16.500",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3638,7 +3649,7 @@ const data = [
    "Đơn giá (có VAT)": "485",
    "KHO": " TBYT 3 ",
    "Tủ": " H2 ",
-   "Tầng": 1
+   "Tầng": "1"
  },
  {
    "Nhóm": " Chung ",
@@ -3649,7 +3660,7 @@ const data = [
    "Đơn giá (có VAT)": "4.550",
    "KHO": " TBYT 3 ",
    "Tủ": " H1 ",
-   "Tầng": 3
+   "Tầng": "3"
  },
  {
    "Nhóm": " Chung ",
@@ -3660,7 +3671,7 @@ const data = [
    "Đơn giá (có VAT)": "165",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3671,7 +3682,7 @@ const data = [
    "Đơn giá (có VAT)": "11.630",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3682,7 +3693,7 @@ const data = [
    "Đơn giá (có VAT)": "590",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3693,7 +3704,7 @@ const data = [
    "Đơn giá (có VAT)": "718",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3704,7 +3715,7 @@ const data = [
    "Đơn giá (có VAT)": "540",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3715,7 +3726,7 @@ const data = [
    "Đơn giá (có VAT)": "535",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3726,7 +3737,7 @@ const data = [
    "Đơn giá (có VAT)": "562",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3737,7 +3748,7 @@ const data = [
    "Đơn giá (có VAT)": "7.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3748,7 +3759,7 @@ const data = [
    "Đơn giá (có VAT)": "1.365",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3759,7 +3770,7 @@ const data = [
    "Đơn giá (có VAT)": "384",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3770,7 +3781,7 @@ const data = [
    "Đơn giá (có VAT)": "6.300",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -3781,7 +3792,7 @@ const data = [
    "Đơn giá (có VAT)": "20.400",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 4
+   "Tầng": "4"
  },
  {
    "Nhóm": " Chung ",
@@ -3792,7 +3803,7 @@ const data = [
    "Đơn giá (có VAT)": "10.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3803,7 +3814,7 @@ const data = [
    "Đơn giá (có VAT)": "1.380",
    "KHO": "  TBYT 1  ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3814,7 +3825,7 @@ const data = [
    "Đơn giá (có VAT)": "3.927",
    "KHO": "  TBYT 1  ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3825,7 +3836,7 @@ const data = [
    "Đơn giá (có VAT)": "8.500",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3836,7 +3847,7 @@ const data = [
    "Đơn giá (có VAT)": "6.200",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3847,7 +3858,7 @@ const data = [
    "Đơn giá (có VAT)": "8.500",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3858,7 +3869,7 @@ const data = [
    "Đơn giá (có VAT)": "1.926.353",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3869,7 +3880,7 @@ const data = [
    "Đơn giá (có VAT)": "1.800",
    "KHO": "  TBYT 1  ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3880,7 +3891,7 @@ const data = [
    "Đơn giá (có VAT)": "5.250",
    "KHO": " TBYT 3 ",
    "Tủ": " H1 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -3891,7 +3902,7 @@ const data = [
    "Đơn giá (có VAT)": "39",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3902,7 +3913,7 @@ const data = [
    "Đơn giá (có VAT)": "6.000",
    "KHO": "",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3913,7 +3924,7 @@ const data = [
    "Đơn giá (có VAT)": "520.000",
    "KHO": " TBYT 1 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3924,7 +3935,7 @@ const data = [
    "Đơn giá (có VAT)": "650.000",
    "KHO": "  TBYT 1  ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3935,7 +3946,7 @@ const data = [
    "Đơn giá (có VAT)": "1.250.000",
    "KHO": "  TBYT 1  ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3946,7 +3957,7 @@ const data = [
    "Đơn giá (có VAT)": "1.725.000",
    "KHO": "  TBYT 1  ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3957,7 +3968,7 @@ const data = [
    "Đơn giá (có VAT)": "1.900.000",
    "KHO": "  TBYT 1  ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3968,7 +3979,7 @@ const data = [
    "Đơn giá (có VAT)": "184.000",
    "KHO": "  TBYT 1  ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3979,7 +3990,7 @@ const data = [
    "Đơn giá (có VAT)": "365.000",
    "KHO": "  TBYT 1  ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -3990,7 +4001,7 @@ const data = [
    "Đơn giá (có VAT)": "540.000",
    "KHO": "  TBYT 1  ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -4001,7 +4012,7 @@ const data = [
    "Đơn giá (có VAT)": "385.000",
    "KHO": " TBYT 3 ",
    "Tủ": "",
-   "Tầng": null
+   "Tầng": ""
  },
  {
    "Nhóm": " Chung ",
@@ -4012,7 +4023,7 @@ const data = [
    "Đơn giá (có VAT)": "145.000",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -4023,7 +4034,7 @@ const data = [
    "Đơn giá (có VAT)": "39.800",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
  },
  {
    "Nhóm": " Chung ",
@@ -4034,6 +4045,4197 @@ const data = [
    "Đơn giá (có VAT)": "57.800",
    "KHO": " TBYT 3 ",
    "Tủ": " A3 ",
-   "Tầng": 2
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ACT.180325.49.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Actrapid 1000IU/10ml ",
+   "Tên hoạt chất": " Insulin người tác dụng nhanh, ngắn ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "65.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ADR.180325.28.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Adrenalin 1mg/1ml ",
+   "Tên hoạt chất": " Adrenalin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "1.230",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ADV.317.164.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Advate 500 IU ",
+   "Tên hoạt chất": " Yếu tố VIII ",
+   "Đơn vị tính": " Hộp ",
+   "Đơn giá (có VAT)": "1.485.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " AER.317.27.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Aerius 0,5mg/ml ",
+   "Tên hoạt chất": " Desloratadin ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "78.900",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ALB.317.162.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Albutein 25% 25% x 50ml ",
+   "Tên hoạt chất": " Albumin ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "987.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ALE.08.7.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Alexan 50mg/ml ",
+   "Tên hoạt chất": " Cytarabin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "249.750",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " AMC.08.40.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Amcinol-Paste 0,1%/5g ",
+   "Tên hoạt chất": " Triamcinolon acetonid ",
+   "Đơn vị tính": " Tube ",
+   "Đơn giá (có VAT)": "11.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " AMI.180325.1.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": "Aminosteril N-Hepa 8% ",
+   "Tên hoạt chất": " Acid amin* ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "104.000",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " AMI.675.3.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Amiparen 5% 5%/200ml ",
+   "Tên hoạt chất": " Acid amin* ",
+   "Đơn vị tính": " Túi ",
+   "Đơn giá (có VAT)": "53.000",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " AND.08.13.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Andoxin 0.05mg/ml/chai 60ml ",
+   "Tên hoạt chất": " Digoxin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "105.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ANZ.280225.8.G2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Anzatax 150mg/25ml 150mg/25ml ",
+   "Tên hoạt chất": " Paclitaxel ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "3.173.573",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ANZ.280225.9.G2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Anzatax 30mg/5ml 30mg/5ml ",
+   "Tên hoạt chất": " Paclitaxel ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "754.110",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " AQU.317.282.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Aquadetrim vitamin D3 15000 IU/ml ",
+   "Tên hoạt chất": " Vitamin D3 ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "62.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ATR.180325.11.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Atropin sulfat 0,25mg/1ml ",
+   "Tên hoạt chất": " Atropin sulfat ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "530",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ATR.317.1.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Atropin sulfat 0,25mg/1ml ",
+   "Tên hoạt chất": " Atropin sulfat ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "530",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " AVA.280225.2.G2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Avastin 100mg/4ml ",
+   "Tên hoạt chất": " Bevacizumab ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "6.794.409",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " BFS.317.178.1.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " BFS-Adenosin 3mg/ 1ml ",
+   "Tên hoạt chất": " Adenosin triphosphat ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "455.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " BFS.280325.11.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " BFS-Cafein 60mg/3ml ",
+   "Tên hoạt chất": " Cafein citrat ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "42.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " BFS.08.14.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " BFS-Nabica 8,4% 8.4%;10ml ",
+   "Tên hoạt chất": " Natri hydrocarbonat (natri bicarbonat) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "19.740",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " BFS.280325.46.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " BFS-Naloxone 0,4mg/ml ",
+   "Tên hoạt chất": " Naloxon hydroclorid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "29.400",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " BIF.08.4.1.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Bifacold 200mg ",
+   "Tên hoạt chất": " N-acetylcystein ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "609",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " BIF.180325.36.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Bifudin 20mg/1g ",
+   "Tên hoạt chất": " Fusidic acid ",
+   "Đơn vị tính": " Tuýp ",
+   "Đơn giá (có VAT)": "11.487",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " BIO.317.214.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Bioflora 100mg 100mg ",
+   "Tên hoạt chất": " Saccharomyces boulardii ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "5.500",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " BLE.180325.12.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Bleomycin Bidiphar 15U ",
+   "Tên hoạt chất": " Bleomycin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "420.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "5"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " BOC.1074.45.1.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Bocartin 150 150mg/15ml ",
+   "Tên hoạt chất": " Carboplatin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "203.469",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " BRI.614.G2.N1.246 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Bridion (CS Đóng gói: N.V.Organon; Đ/C: Kloosterstraat 6, 5349 AB Oss, The Netherlands 100mg/ml ",
+   "Tên hoạt chất": " Sugammadex ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "1.814.340",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " BRI964.10 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Bridion 100mg/ml ",
+   "Tên hoạt chất": " Sugammadex ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "1.814.340",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " BRU.280325.23.G1.N5 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Brudopa 200mg/5ml ",
+   "Tên hoạt chất": " Dopamin hydroclorid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "23.500",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " BUT.180325.86.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Buto-Asma 100mcg/liều ",
+   "Tên hoạt chất": " Salbutamol sulfat ",
+   "Đơn vị tính": " Bình ",
+   "Đơn giá (có VAT)": "50.000",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " CAL.280325.13.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Calci folinat 5ml 50mg/5ml ",
+   "Tên hoạt chất": " Calci folinat (folinic acid, leucovorin) ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "13.680",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " CER.08.19.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Cerebrolysin 215,2 mg/ml; 5ml ",
+   "Tên hoạt chất": " Peptid (Cerebrolysin concentrate) ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "64.260",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " CIS.1375.824 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Cisplatin Bidiphar 10mg/20ml 10mg ",
+   "Tên hoạt chất": " Cisplatin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "64.491",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " CIS.1217.826 ",
+   "Tên thuốc, nồng độ, hàm lượng": " CISPLATON 50mg/100ml ",
+   "Tên hoạt chất": " Cisplatin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "181.600",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " COM.280325.34.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Companity 670mg/ml x 7.5ml ",
+   "Tên hoạt chất": " Lactulose ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "3.300",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " COR.317.179.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Cordarone 150mg/3ml 150mg/ 3ml ",
+   "Tên hoạt chất": " Amiodaron hydroclorid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "30.048",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " COS.280325.17.G1.N5 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Cosmegen Lyovac 500mcg ",
+   "Tên hoạt chất": " Dactinomycin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "3.980.000",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " CUR.08.29.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Curosurf 120mg/ 1,5ml ",
+   "Tên hoạt chất": " Surfactant (Phospholipid chiết xuất từ phổi lợn hoặc phổi bò; hoặc chất diện hoạt chiết xuất từ phổi bò (Bovine lung surfactant)) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "13.990.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " CHE.317.132.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " CHEMODOX 2mg/ml ",
+   "Tên hoạt chất": " Doxorubicin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "3.800.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "5"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DAU.280325.18.G1.N5 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Daunocin 20mg ",
+   "Tên hoạt chất": " Daunorubicin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "209.769",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DEP.317.51.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Depakine 200mg/ml 200mg/ml ",
+   "Tên hoạt chất": " Valproat natri ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "80.696",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DEP.1181.9 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Depo-Medrol 40mg/ ml ",
+   "Tên hoạt chất": " Methyl prednisolon ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "34.669",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DES.1074.13.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Desloratadine Danapha 0,5mg/ml ",
+   "Tên hoạt chất": " Desloratadin ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "12.800",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DEX.VP.300.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Dexamethasone 4mg/1ml ",
+   "Tên hoạt chất": " Dexamethason phosphat (dưới dạng Dexamethason natri phosphat) ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "680",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DEX.280325.26.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Dextrose 20% 50g/250ml ",
+   "Tên hoạt chất": " Glucose ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "15.000",
+   "KHO": " KT2 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DIA.317.255.1.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Diaphyllin Venosum 240mg ",
+   "Tên hoạt chất": " Aminophylin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "17.500",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DIG.1217.1196 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Digoxin-BFS 0,25mg/1ml ",
+   "Tên hoạt chất": " Digoxin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "16.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DIM.VP.1375.ĐC ",
+   "Tên thuốc, nồng độ, hàm lượng": " Dimedrol 10mg/1ml ",
+   "Tên hoạt chất": " Diphenhydramin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "525",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DIM.08.23.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Dimedrol 10mg/ml ",
+   "Tên hoạt chất": " Diphenhydramin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "730",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DIM.317.29.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Dimedrol 10mg/ml ",
+   "Tên hoạt chất": " Diphenhydramin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "730",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DIP.280325.MOI.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Diphereline 0,1 mg 0,1mg ",
+   "Tên hoạt chất": " Triptorelin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "145.000",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DIP.675.102.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Diphereline P.R 3,75 mg 3,75mg ",
+   "Tên hoạt chất": " Triptorelin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "2.557.000",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DIP.280325.61.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Diphereline P.R 3,75mg 3,75mg ",
+   "Tên hoạt chất": " Triptorelin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "2.556.999",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DIP.280325.62.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Diphereline P.R. 11.25mg 11,25mg ",
+   "Tên hoạt chất": " Triptorelin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "7.699.999",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DIP.675.103.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Diphereline P.R. 11.25mg 11,25mg ",
+   "Tên hoạt chất": " Triptorelin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "7.700.000",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DOB.280325.22.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Dobutamin-BFS 250mg ",
+   "Tên hoạt chất": " Dobutamin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "55.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DOM.317.212.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Domuvar 2 x 10^9 CFU/5ml ",
+   "Tên hoạt chất": " Bacillus subtilis ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "5.250",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DOX.317.131.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Doxorubicin Bidiphar 50 50mg/25ml ",
+   "Tên hoạt chất": " Doxorubicin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "167.790",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "5"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DUN.070525.RỬA ",
+   "Tên thuốc, nồng độ, hàm lượng": " Dung dịch muối rửa 0,9%/1000ml ",
+   "Tên hoạt chất": " Dung dịch muối rửa ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "13.587",
+   "KHO": " KT1 ",
+   "Tủ": " K11 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DUR.280325.15.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Duratocin 100mcg/1ml ",
+   "Tên hoạt chất": " Carbetocin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "333.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " DUR.317.242.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Duratocin 100mcg/1ml ",
+   "Tên hoạt chất": " Carbetocin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "266.150",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " END.675.19.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Endoxan 200mg ",
+   "Tên hoạt chất": " Cyclophosphamid ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "54.730",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ESP.1217.1557 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Espumisan L 40mg/ml ",
+   "Tên hoạt chất": " Simethicon ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "53.300",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ESP.317.218.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Espumisan L 40mg/ml ",
+   "Tên hoạt chất": " Simethicon ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "53.300",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ETO.675.30.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Etoposid Bidiphar 100mg ",
+   "Tên hoạt chất": " Etoposid ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "115.395",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " FAL.317.7.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Falipan (Cơ sở xuất xưởng: Deltamedica GmbH; Địa chỉ: Ernst-Wagner-Weg 1-5 72766 Reutlingen Germany) 200mg/ 10ml ",
+   "Tên hoạt chất": " Lidocain (hydroclorid) ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "39.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " FIC.180325.31.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Ficocyte 30MU/0,5 ml ",
+   "Tên hoạt chất": " Filgrastim ",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "330.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " FLE.317.161.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Flexbumin 20% 10g/50ml ",
+   "Tên hoạt chất": " Albumin ",
+   "Đơn vị tính": " Túi ",
+   "Đơn giá (có VAT)": "740.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " FLI.1601.16.G2N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Flixotide Evohaler 125mcg/ liều xịt ",
+   "Tên hoạt chất": " Fluticason propionat ",
+   "Đơn vị tính": " Bình Xịt ",
+   "Đơn giá (có VAT)": "106.462",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " FOV.280325.VP.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Fovepta Human protein trong đó IgG tối thiểu 96% với hàm lượng Hepatitis B Immunoglobulin người - 200 IU/0,4ml. Phân bố các Immunoglobulin: 59% IgG1; 35% IgG2; 3% IgG3; 3% IgG4; IgA ≤ 6mg/ml ",
+   "Tên hoạt chất": " Human protein trong đó IgG tối thiểu 96% với hàm lượng Hepatitis B Immunoglobulin người - 200 IU/0,4ml. Phân bố các Immunoglobulin: 59% IgG1; 35% IgG2; 3% IgG3; 3% IgG4; IgA ≤ 6mg/ml ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "2.000.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " FOV.317.VP.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Fovepta Human protein trong đó IgG tối thiểu 96% với hàm lượng Hepatitis B Immunoglobulin người - 200 IU/0,4ml. Phân bố các Immunoglobulin: 59% IgG1; 35% IgG2; 3% IgG3; 3% IgG4; IgA ≤ 6mg/ml ",
+   "Tên hoạt chất": " Human protein trong đó IgG tối thiểu 96% với hàm lượng Hepatitis B Immunoglobulin người - 200 IU/0,4ml. Phân bố các Immunoglobulin: 59% IgG1; 35% IgG2; 3% IgG3; 3% IgG4; IgA ≤ 6mg/ml ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "2.000.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " FRE.180325.80.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Fresofol 1% MCT/LCT 1% (10mg/ml) ",
+   "Tên hoạt chất": " Propofol ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "25.900",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " FRE.317.11.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Fresofol 1% Mct/Lct 1% (10mg/ml) ",
+   "Tên hoạt chất": " Propofol ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "35.000",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " GAD.675.33.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Gadovist 604,72mg tương đương 1mmol/ml ",
+   "Tên hoạt chất": " Gadobutrol ",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "546.000",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "5"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " GEL.180325.38.G1N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Geloplasma Mỗi túi 500ml chứa: Gelatin khan (dưới dạng gelatin lỏng biến tính) 15g; Natri clorid 2,691g; Magnesi clorid hexahydrat 0,1525g; Kali clorid 0,1865g; Natri lactat (dưới dạng dung dịch natri (S)-lactat) 1,68g ",
+   "Tên hoạt chất": " Gelatin ",
+   "Đơn vị tính": " Túi ",
+   "Đơn giá (có VAT)": "110.000",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " GEM.317.156.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Gemapaxane 4000IU/0,4ml ",
+   "Tên hoạt chất": " Enoxaparin (natri) ",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "70.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " GLU.180325.39.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Glucose 10% 10%/500ml ",
+   "Tên hoạt chất": " Glucose ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "8.970",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " GLU.280325.27.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Glucose 30% 1,5g/5ml ",
+   "Tên hoạt chất": " Glucose ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "1.050",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " GLU.180325.40.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Glucose 30% 30%/250ml ",
+   "Tên hoạt chất": " Glucose ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "12.850",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " GLU.180325.41.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Glucose 5% 5%/500ml ",
+   "Tên hoạt chất": " Glucose ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "7.779",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " GLY.VP.300824 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Glyceryl Trinitrate - Hameln 1mg/ml 10mg/10ml ",
+   "Tên hoạt chất": " Glyceryl trinitrat ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "105.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " GOL.675.63.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Golistin-enema for children (10,63g +3,92g)/66 ml ",
+   "Tên hoạt chất": " Monobasic natri phosphat+ dibasic natri phosphat ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "39.690",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " GOL.280325.44.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Golistin-Enema Mỗi 118ml chứa: Monobasic natri phosphat 19g; Dibasic natri phosphat 7g ",
+   "Tên hoạt chất": " Monobasic natri phosphat+ dibasic natri phosphat ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "51.975",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " GOL.675.64.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Golistin-enema Mỗi 118ml chứa: Monobasic natri phosphat 19g; Dibasic natri phosphat 7g ",
+   "Tên hoạt chất": " Monobasic natri phosphat+ dibasic natri phosphat ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "51.408",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " GRO.675.12.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Growpone 10% 10%10ml ",
+   "Tên hoạt chất": " Calci gluconat ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "13.500",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " HAD.1074.14.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Hadunalin 1mg/ml 1mg/ml ",
+   "Tên hoạt chất": " Epinephrin (adrenalin) ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "1.100",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " HEP.180325.43.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Heparine Sodique Panpharma 5 000 U.I./ml 25000IU/5ml ",
+   "Tên hoạt chất": " Heparin (natri) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "199.500",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " HER.3460.004 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Herceptin 150mg ",
+   "Tên hoạt chất": " Trastuzumab ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "12.907.089",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " HID.1601.12.G2N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Hidrasec 10mg Infants 10mg/gói ",
+   "Tên hoạt chất": " Racecadotril ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "4.894",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " HID.1601.13.G2N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Hidrasec 30mg Children 30mg/gói ",
+   "Tên hoạt chất": " Racecadotril ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "5.354",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " HIZ.675.45.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Hizentra 20%/20ml ",
+   "Tên hoạt chất": " Immune globulin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "9.297.750",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " HOL.08.1.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Holoxan 1g ",
+   "Tên hoạt chất": " Ifosfamid ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "385.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "5"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " HUY.180325.46.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Huyết thanh kháng độc tố uốn ván tinh chế (SAT) 1.500IU ",
+   "Tên hoạt chất": " Huyết thanh kháng uốn ván ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "29.043",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " HUY.180325.45.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Huyết thanh kháng nọc rắn lục tre tinh chế (SAV) 1000LD50 (Huyết thanh kháng nọc rắn lục tre) ",
+   "Tên hoạt chất": " Huyết thanh kháng nọc rắn ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "465.150",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " IMM.180325.100.G1N5 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Immunine 600 600 IU ",
+   "Tên hoạt chất": " Yếu tố IX ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "4.788.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " IMP.280325.VP.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Implanon NXT 68mg ",
+   "Tên hoạt chất": " Etonogestrel ",
+   "Đơn vị tính": " Que ",
+   "Đơn giá (có VAT)": "1.720.599",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " INS.180325.50.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Insulatard 1000IU/10ml ",
+   "Tên hoạt chất": " Insulin người tác dụng trung bình, trung gian ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "64.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " INT.MP.0892023B ",
+   "Tên thuốc, nồng độ, hàm lượng": " INTRATECT 5%/50ML ",
+   "Tên hoạt chất": " Immunoglobulin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "4.500.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " IV .280325.32.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " IV Immunoglobulin 5% Octapharma 2,5g/ 50ml (IgG ≥ 95% (w/w); IgA ≤ 10mg) ",
+   "Tên hoạt chất": " Immune globulin ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "3.650.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " IV .317.235.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " IV Immunoglobulin 5% Octapharma 2,5g/ 50ml (IgG ≥ 95% (w/w); IgA ≤ 10mg) ",
+   "Tên hoạt chất": " Immune globulin ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "3.300.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " IVA.180325.44.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " IVACRIG (Huyết thanh kháng dại tinh chế) 1000 IU ",
+   "Tên hoạt chất": " Huyết thanh kháng dại ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "387.555",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " JUN.180325.VP.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Junimin (6970mcg + 1428mcg + 40,52mcg + 13,08mcg + 43,81mcg)/10ml ",
+   "Tên hoạt chất": " Zinc gluconat + Đồng gluconat + Mangan gluconat + Kali iodid + Natri selenit ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "162.750",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " KAB.317.265.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": "Kabiven Peripheral ",
+   "Tên hoạt chất": " Acid amin + glucose + lipid (*) ",
+   "Đơn vị tính": " Túi ",
+   "Đơn giá (có VAT)": "630.000",
+   "KHO": " KT1 ",
+   "Tủ": " K11 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " KED.180325.4.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Kedrialb 200g/l 200g/l, 50ml ",
+   "Tên hoạt chất": " Albumin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "795.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " LAC.180325.83.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Lactated Ringer's 500ml ",
+   "Tên hoạt chất": " Ringer lactat ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "6.969",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " LAC.1217.2089 ",
+   "Tên thuốc, nồng độ, hàm lượng": " LACTATED RINGER'S AND DEXTROSE (1,5g + 750mg + 75mg + 50mg + 11,365g)/250ml x 500ml ",
+   "Tên hoạt chất": " Natri clorid + natri lactat + kali clorid + calcium clorid + glucose (Ringer lactat + glucose) ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "10.500",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " LEV.180325.54.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Levobupivacaina Bioindustria L.I.M 5mg/ml ",
+   "Tên hoạt chất": " Levobupivacain ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "109.500",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " LID.280325.37.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Lidocain 3,8g (dưới dạng dung dịch 10% trong cồn) ",
+   "Tên hoạt chất": " Lidocain (hydroclorid) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "159.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " LID.180325.56.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Lidocain 40mg/2ml 40mg/ 2ml ",
+   "Tên hoạt chất": " Lidocain hydroclodrid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "525",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " LID.VP.40.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Lidocain- BFS 200mg 2%/10ml ",
+   "Tên hoạt chất": " Lidocain (hydroclorid) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "15.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " LIG.VP.300.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Lignospan Standard Lidocaine Hydrochlorid e 36mg; Epinephrine 0,018mg ",
+   "Tên hoạt chất": " Lidocaine Hydrochloride + epinephrine ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "15.300",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " LIV.317.216.1.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Livethine 2000mg ",
+   "Tên hoạt chất": " L-Ornithin - L- aspartat ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "41.895",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " MAG.1217.2067 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Magnesi sulfat Kabi 15% 15%/10ml ",
+   "Tên hoạt chất": " Magnesi sulfat ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "2.730",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " MAN.180325.59.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Manitol 20% Mỗi 250ml dung dịch chứa: Manitol 50g ",
+   "Tên hoạt chất": " Manitol ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "20.000",
+   "KHO": " KT1 ",
+   "Tủ": " K11 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " MAR.675.10.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Marcaine Spinal Heavy 0.5% (5mg/ml) - 4ml ",
+   "Tên hoạt chất": " Bupivacain hydroclorid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "41.600",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " MED.317.221.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Medcelore Injection 40mg ",
+   "Tên hoạt chất": " Methyl prednisolon ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "31.500",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " MEI.280325.2.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Meileo 25mg/ml ",
+   "Tên hoạt chất": " Aciclovir ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "278.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " MET.180325.60.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Methotrexat \"Ebewe\" 500mg/5ml 500mg/5ml ",
+   "Tên hoạt chất": " Methotrexat ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "540.000",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " MET.180325.62.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Methotrexat 25mg/1ml ",
+   "Tên hoạt chất": " Methotrexat ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "69.993",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " MET.180325.63.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Methylergometrine Maleate injection 0,2mg - 1ml 0,2mg/ml ",
+   "Tên hoạt chất": " Methyl ergometrin maleat ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "20.600",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " MEZ.180325.93.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Meza-Calci 1.650mg (tương ứng 0,6g Calci) ",
+   "Tên hoạt chất": " Tricalcium phosphat ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "693",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " MIL.280325.42.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Milrinone-BFS 10mg/10ml ",
+   "Tên hoạt chất": " Milrinon ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "115.500",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " MIX.180325.48.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Mixtard 30 (700IU + 300IU)/10ml ",
+   "Tên hoạt chất": " Insulin người trộn, hỗn hợp ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "75.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " MVA.675.9.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Mvasi 100mg/4ml ",
+   "Tên hoạt chất": " Bevacizumab ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "4.756.087",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " MYD.180325.94.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Mydrin-P 50mg/10ml + 50mg/10ml ",
+   "Tên hoạt chất": " Tropicamide + phenyl-ephrine hydroclorid ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "67.500",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NAT.1217.299 ",
+   "Tên thuốc, nồng độ, hàm lượng": " NATRI BICARBONAT 1.4% 1,4%/500ml ",
+   "Tên hoạt chất": " Natri hydrocarbonat (natri bicarbonat) ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "39.953",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NAT.675.68.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Natri clorid 0,9% 0,9%; 10ml ",
+   "Tên hoạt chất": " Natri clorid ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "1.345",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NAT.180325.66.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Natri clorid 0,9% 0,9%;100ml ",
+   "Tên hoạt chất": " Natri clorid ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "5.069",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NAT.574.5.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Natri clorid 0,9% 0,9%;500ml ",
+   "Tên hoạt chất": " Natri clorid ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "6.258",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NAT.180325.67.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Natri clorid 10% 10%/250ml ",
+   "Tên hoạt chất": " Natri clorid ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "11.897",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NEF.675.74.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Nefopam Medisol 20mg/2ml 20mg ",
+   "Tên hoạt chất": " Nefopam hydroclorid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "23.900",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NEX.280225.4.G2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Nexium 10mg ",
+   "Tên hoạt chất": " Esomeprazol ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "22.456",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NIC.317.182.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Nicardipine Aguettant 10mg/10ml 10mg/10ml ",
+   "Tên hoạt chất": " Nicardipin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "124.999",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NOR.180325.71.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Noradrenalin 1mg/1ml ",
+   "Tên hoạt chất": " Nor- adrenalin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "5.300",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NOR.317.38.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Noradrenaline Base Aguettant 1mg/ml 4mg/4ml ",
+   "Tên hoạt chất": " Nor-epinephrin (Nor- adrenalin) ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "40.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NO-.317.203.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " No-Spa 40mg/2ml 40mg/2ml ",
+   "Tên hoạt chất": " Drotaverin clohydrat ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "5.306",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NƯỚ.280325.50.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Nước cất pha tiêm 500ml ",
+   "Tên hoạt chất": " Nước cất pha tiêm ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "6.775",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NUO.08.34.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Nước cất tiêm 10ml ",
+   "Tên hoạt chất": " Nước cất pha tiêm ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "686",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " NUO.312.3.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Nước cất tiêm 10ml ",
+   "Tên hoạt chất": " Nước cất pha tiêm ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "688",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " OCT.1074.77.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " OCTRIDE 100 0,1mg/ml ",
+   "Tên hoạt chất": " Octreotid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "62.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "5"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " OME.317.195.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Omevin 40mg ",
+   "Tên hoạt chất": " Omeprazol ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "5.800",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " OMN.67.G2.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Omnipaque 647mg/ml (tương đương Iod 300mg/ml) x 100ml ",
+   "Tên hoạt chất": " Iohexol ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "433.310",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " OMN.180325.51.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Omnipaque 647mg/ml tương đương Iod 300mg/ml x 50ml ",
+   "Tên hoạt chất": " Iohexol ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "240.776",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " OND.280325.51.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Ondansetron Kabi 8mg/4ml 8mg ",
+   "Tên hoạt chất": " Ondansetron ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "3.470",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " OND.317.202.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Ondatil 4mg/5ml 4mg/5ml ",
+   "Tên hoạt chất": " Ondansetron ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "14.500",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ORE.08.6.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Oresol new Mỗi gói 4,22g chứa: Glucose khan (dưới dạng glucose monohydrate) 2,7 g; Natri clorid 0,52g; Kali clorid 0,3g; Trinatri citrat khan (dưới dạng Trinatri citrat. 2H20) 0,509 g ",
+   "Tên hoạt chất": " Natri clorid+kali clorid+ natri citrat + glucose khan ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "1.050",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " OXY.08.12.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Oxytocin 5IU/1ml ",
+   "Tên hoạt chất": " Oxytocin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "12.500",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "5"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " PAM.317.40.G1.N5 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Pamintu 10mg/ml 10mg/ml; 5ml ",
+   "Tên hoạt chất": " Protamin sulfat ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "214.980",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " PAM.317.Moi.G1.N5 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Pamintu 10mg/ml 10mg/ml; 5ml ",
+   "Tên hoạt chất": " Protamin sulfat ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "214.980",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " PEN.317.236.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Pentaglobin Protein huyết tương người 50g/l trong đó 1ml dung dịch có chứa ít nhất 95% Globulin miễn dịch, Immunoglobulin M (IgM) 6mg, Immunoglobulin A (IgA) 6mg, Immunoglobulin G (IgG) 38mg; 50ml ",
+   "Tên hoạt chất": " Immune globulin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "6.037.500",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " POL.317.14.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Polebufen 100mg/5ml ",
+   "Tên hoạt chất": " Ibuprofen ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "82.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " POT.675.50.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Potassium Chloride Proamp 0,10g/ml 1g/10ml ",
+   "Tên hoạt chất": " Kali clorid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "5.500",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " POV.280325.54.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Povidine 1g ",
+   "Tên hoạt chất": " Povidon iodin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "6.378",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " POV.280325.55.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Povidone 10%/130ml ",
+   "Tên hoạt chất": " Povidon iodin ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "14.700",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " PRI.675.27.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": "Prismasol B0",
+   "Tên hoạt chất": " Dung dịch lọc máu liên tục (có hoặc không có chống đông bằng citrat; có hoặc không có chứa lactat) ",
+   "Đơn vị tính": " Túi ",
+   "Đơn giá (có VAT)": "700.000",
+   "KHO": " KT2 ",
+   "Tủ": " K1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " PRO.1217.1621 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Progesterone injection BP 25mg 25mg ",
+   "Tên hoạt chất": " Progesteron ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "18.585",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " PRO.675.48.G1.N5 ",
+   "Tên thuốc, nồng độ, hàm lượng": " ProIVIG 5%; 100ml ",
+   "Tên hoạt chất": " Immune globulin ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "5.600.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " PUL.180325.13.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Pulmicort Respules 500mcg/2ml ",
+   "Tên hoạt chất": " Budesonid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "13.834",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " PHA.08.38.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Phacolugel 2,48g ",
+   "Tên hoạt chất": " Aluminum phosphat ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "2.080",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " PHE.180325.77.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Phenylephrine Aguettant 50 Microgrammes/ ml 50mcg/ml ",
+   "Tên hoạt chất": " Phenylephrin ",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "194.500",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " PHO.280325.VP.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Phosphorus Aguettant 250,8mg/ml x 10ml ",
+   "Tên hoạt chất": " Glucose - 1-Phosphat dinatri tetrahydrate ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "157.000",
+   "KHO": " KT1 ",
+   "Tủ": " K4 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ROC.08.11.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Rocuronium Kabi 10mg/ml (10mg/ml) x 5ml ",
+   "Tên hoạt chất": " Rocuronium bromid ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "56.500",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "5"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ROC.180325.84.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Rocuronium Kabi 10mg/ml (10mg/ml) x 5ml ",
+   "Tên hoạt chất": " Rocuronium bromid ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "56.500",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "5"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " SAI.180325.88.2.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Saizen 6 mg/1,03ml ",
+   "Tên hoạt chất": " Somatropin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "2.862.700",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " SEV.603.8.G2.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Sevorane 250ml ",
+   "Tên hoạt chất": " Sevofluran ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "3.578.600",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " SMO.180325.69.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Smoflipid 20% (6g + 6g + 5g + 3g)/100ml ",
+   "Tên hoạt chất": " Nhũ dịch lipid ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "110.000",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " SMO.317.272.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " SMOFlipid 20% (6g + 6g + 5g + 3g)/100ml ",
+   "Tên hoạt chất": " Nhũ dịch lipid ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "110.000",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " SOL.87.5.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Solezol 40mg ",
+   "Tên hoạt chất": " Esomeprazole (dưới dạng Esomeprazole natri) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "26.888",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " STI.675.38.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Stiprol 2,25g/3g. Tuýp 9g ",
+   "Tên hoạt chất": " Glycerol ",
+   "Đơn vị tính": " Tuýp ",
+   "Đơn giá (có VAT)": "6.930",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " SUP.180325.19.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Suprane 100% (v/v) ",
+   "Tên hoạt chất": " Desflurane ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "2.700.000",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " SUR.1601.21.G2N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Survanta 25 mg/ ml ",
+   "Tên hoạt chất": " Surfactant (Phospholipid chiết xuất từ phổi bò) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "8.802.200",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " TRA.280225.1.G2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Tractocile 7,5mg/ml ",
+   "Tên hoạt chất": " Atosiban ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "2.164.858",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " TRA.280325.59.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Tranexamic acid 500mg/5ml 500mg ",
+   "Tên hoạt chất": " Tranexamic acid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "2.995",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " TRI.317.45.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Trileptal 60mg/ml ",
+   "Tên hoạt chất": " Oxcarbazepine ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "219.996",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VAC.08.41.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vacometa 3g ",
+   "Tên hoạt chất": " Diosmectit ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "1.570",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VAM.180325.2.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": "Vaminolact 100ml ",
+   "Tên hoạt chất": " Acid amin* ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "135.450",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VAM.317.263.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": "Vaminolact 100ml ",
+   "Tên hoạt chất": " Acid amin* ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "135.450",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.08.22.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vincomid 10mg/2ml ",
+   "Tên hoạt chất": " Metoclopramid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "1.340",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.317.201.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vincomid 10mg/2ml ",
+   "Tên hoạt chất": " Metoclopramid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "960",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.317.142.1.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vincran 1mg ",
+   "Tên hoạt chất": " Vincristin sulfat ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "189.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "5"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.08.21.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinmesna 400mg/4ml ",
+   "Tên hoạt chất": " Mesna ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "31.500",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.675.82.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinpara 1g 1g/10ml ",
+   "Tên hoạt chất": " Paracetamol (acetaminophen) ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "9.000",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.675.42.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinphason 100mg ",
+   "Tên hoạt chất": " Hydrocortison ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "6.489",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.180325.75.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinphatoxin 10 IU/1ml ",
+   "Tên hoạt chất": " Oxytocin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "6.489",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "5"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.180325.78.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinphyton 10mg 10mg/1ml ",
+   "Tên hoạt chất": " Phytomenadion (vitamin K1) ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "1.650",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.317.158.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinphyton 1mg 1mg/1ml ",
+   "Tên hoạt chất": " Phytomenadion (vitamin K1) ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "1.200",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.317.259.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinsalpium (2,5mg+0,5mg)/2,5ml ",
+   "Tên hoạt chất": " Salbutamol + ipratropium ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "12.600",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.08.25.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinstigmin 0,5mg/ml ",
+   "Tên hoạt chất": " Neostigmin metylsulfat (bromid) ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "3.400",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.280325.48.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinstigmin 0,5mg/ml ",
+   "Tên hoạt chất": " Neostigmin metylsulfat ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "3.600",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.675.97.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinterlin 0,5mg/ml ",
+   "Tên hoạt chất": " Terbutalin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "4.835",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.VP.180325.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vintrypsine 5000 đơn vị USP ",
+   "Tên hoạt chất": " Alpha chymotrypsin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "8.200",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.08.26.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinzix 20mg/2ml ",
+   "Tên hoạt chất": " Furosemid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "620",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIN.180325.35.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinzix 20mg/2ml ",
+   "Tên hoạt chất": " Furosemid ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "620",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIT.180325.98.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vitamin B1 100mg/1ml ",
+   "Tên hoạt chất": " Vitamin B1 ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "630",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VIT.1375.995 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vitamin K1 10mg/1ml 10mg/ml ",
+   "Tên hoạt chất": " Phytomenadion (vitamin K1) ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "1.550",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " VOL.675.113.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Volulyte 6% (30g; 2,315g; 3,01g; 0,15g; 0,15g)/500ml ",
+   "Tên hoạt chất": " Tinh bột este hóa (hydroxyethylstarch) ",
+   "Đơn vị tính": " Túi ",
+   "Đơn giá (có VAT)": "89.500",
+   "KHO": " KT1 ",
+   "Tủ": " K12 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " XAL.675.14.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Xalermus 250 250mg ",
+   "Tên hoạt chất": " Carbocistein ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "2.680",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " XEN.67.DC.G2.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Xenetix 300 30g/100ml x 50ml ",
+   "Tên hoạt chất": " Iodine (dưới dạng Iobitridol 65,81g/100ml) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "266.750",
+   "KHO": " KT1 ",
+   "Tủ": " K5 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ZEN.08.16.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Zensalbu nebules 2.5 Salbutamol (dưới dạng salbutamol sulfat) 2,5mg/2,5ml ",
+   "Tên hoạt chất": " Salbutamol sulfat ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "4.410",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ZEN.08.15.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Zensalbu nebules 5.0 Salbutamol (dưới dạng salbutamol sulfat) 5mg/2,5ml ",
+   "Tên hoạt chất": " Salbutamol sulfat ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "8.400",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " OLG-DC ",
+   "Mã dược": " ZOL.614.G2.N1.MOI ",
+   "Tên thuốc, nồng độ, hàm lượng": " Zoladex 3,6mg ",
+   "Tên hoạt chất": " Goserelin acetat ",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "2.568.297",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " ADV.3460.001 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Advagraf 1mg ",
+   "Tên hoạt chất": " Tacrolimus (dưới dạng Tacrolimus monohydrate) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "51.130",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " EQU.317.MOI.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Equoral 25mg 25mg ",
+   "Tên hoạt chất": " Ciclosporin ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "10.070",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " HEM.180325.61.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Hemetrex 2,5mg ",
+   "Tên hoạt chất": " Methotrexat ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "3.500",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MIL.180325.97.2.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Milepsy 200 200mg ",
+   "Tên hoạt chất": " Valproat natri ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.512",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MYC.317.150.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Mycophenolate mofetil Teva 500mg ",
+   "Tên hoạt chất": " Mycophenolat ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "42.946",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " ACI.MP.0825.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Aciste 1MIU 1.000.000 IU ",
+   "Tên hoạt chất": " Colistin* ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "116.250",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " AGI.1375.639 ",
+   "Tên thuốc, nồng độ, hàm lượng": " AGI-ERY 500 500mg ",
+   "Tên hoạt chất": " Erythromycin ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.155",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " AGI.1217.727 ",
+   "Tên thuốc, nồng độ, hàm lượng": " AGIFAMCIN 300 300mg ",
+   "Tên hoạt chất": " Rifampicin ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "2.470",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " AGI.613.G1.N4.36 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Aginolol 50 50mg ",
+   "Tên hoạt chất": " Atenolol ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "105",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " AMP.180325.10.G1N5 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Ampholip 5 mg/ml ",
+   "Tên hoạt chất": " Amphotericin B* ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "1.800.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " AMP.180325.9.G1N5 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Amphotret 50mg ",
+   "Tên hoạt chất": " Amphotericin B* ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "180.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " AMP.280325.7.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Ampicillin 1g 1g ",
+   "Tên hoạt chất": " Ampicilin (muối natri) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "7.000",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " AMP.317.64.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Ampicillin/Sulbactam 1,5 g 1g + 0,5g ",
+   "Tên hoạt chất": " Ampicilin + sulbactam ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "57.900",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " ANT.97.4.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Antipec 1g 1g ",
+   "Tên hoạt chất": " Hỗn hợp vô khuẩn cefepime dihydrochloride monohydrate và L-arginine (trong đó chứa cefepime 1g (dưới dạng cefepime dihydrochloride monohydrate)) 1915,71mg ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "39.689",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " AUG.614.G2.N1.20 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Augmentin 1g 875mg + 125mg ",
+   "Tên hoạt chất": " Amoxicilin + acid clavulanic ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "16.680",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " AUG.180325.8.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Augmentin 500mg/62.5mg 500mg + 62,5mg ",
+   "Tên hoạt chất": " Amoxicilin + acid clavulanic ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "16.014",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " AZI.280325.9.G1.N3 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Azicine 250mg 250mg ",
+   "Tên hoạt chất": " Azithromycin ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "3.400",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " BAS.1217.1711 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Basethyrox 100mg ",
+   "Tên hoạt chất": " Propylthiouracil (PTU) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "735",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " BEN.317.65.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Benzylpenicillin 1.000.000 IU 1.000.000 IU ",
+   "Tên hoạt chất": " Benzylpenicilin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "3.790",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " BIO.97.3.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Biofazolin 1g ",
+   "Tên hoạt chất": " Cefazolin (dưới dạng cefazolin sodium) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "17.060",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " BIV.180325.55.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Bivelox I.V 500mg/100 ml 5mg/1ml ",
+   "Tên hoạt chất": " Levofloxacin* ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "14.889",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " BUF.317.74.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Buflan 2g 1g + 1g ",
+   "Tên hoạt chất": " Cefoperazon + sulbactam ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "184.000",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " CAN.280225.5.G2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Cancidas 50mg ",
+   "Tên hoạt chất": " Caspofungin* ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "6.531.000",
+   "KHO": " KT1 ",
+   "Tủ": " TL1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " CEF.317.70.1.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Cefamandol 1g 1g ",
+   "Tên hoạt chất": " Cefamandol ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "63.000",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " CEF.180325.15.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Cefoxitine Gerda 1G 1g ",
+   "Tên hoạt chất": " Cefoxitin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "111.800",
+   "KHO": " KT1 ",
+   "Tủ": " K6 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " CEF.180325.MOI.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Cefoxitine Gerda 1G 1g ",
+   "Tên hoạt chất": " Cefoxitin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "111.800",
+   "KHO": " KT1 ",
+   "Tủ": " K6 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " CEF.675.16.G1.N3 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Cefuroxime 250mg 250mg ",
+   "Tên hoạt chất": " Cefuroxim ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.321",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " CLI.1074.31.1.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Clindacine 300 300mg/2ml ",
+   "Tên hoạt chất": " Clindamycin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "7.800",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " CYC.1375.707 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Cyclindox 100mg 100mg ",
+   "Tên hoạt chất": " Doxycyclin ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.480",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " DAL.614.G2.N1.65 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Dalacin C 300mg ",
+   "Tên hoạt chất": " Clindamycin ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "11.273",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " EGI.1217.1148 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Egilok 25mg Metoprolol tartrate ",
+   "Tên hoạt chất": " Metoprolol ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.545",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " FOR.317.73.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Fordamet 1g 1g ",
+   "Tên hoạt chất": " Cefoperazon ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "53.500",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " GEN.08.33.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Gentamicin 80mg 80mg ",
+   "Tên hoạt chất": " Gentamicin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "1.020",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " IMI.08.9.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Imipenem Cilastatin Kabi 500mg + 500mg ",
+   "Tên hoạt chất": " Imipenem + cilastatin* ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "89.000",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " KLE.180325.MOI.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Klevaflu Sol.Inf 2mg/1ml 200mg/100ml ",
+   "Tên hoạt chất": " Fluconazol ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "198.000",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " LAM.1217.1740 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Lambertu 60mg ",
+   "Tên hoạt chất": " Pyridostigmin bromid ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "2.250",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " LIN.613.G1.N2.229 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Linod 600mg/300ml ",
+   "Tên hoạt chất": " Linezolid* ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "336.000",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MED.52.1.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Medivernol 1g 1g ",
+   "Tên hoạt chất": " Ceftriaxone (dưới dạng ceftriaxone sodium) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "9.330",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MEP.317.90.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Mepoly (10mg; 35mg; 100.000IU)/10ml ",
+   "Tên hoạt chất": " Neomycin + polymyxin B + dexamethason ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "37.000",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MER.2990.2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Meronem 1000mg ",
+   "Tên hoạt chất": " Meropenem (dưới dạng Meropenem trihydrate) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "549.947",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MER.603.10.G2.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Meronem 500mg ",
+   "Tên hoạt chất": " Meropenem* ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "317.747",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MER.97.7.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Meropenem/ Anfarm 500mg ",
+   "Tên hoạt chất": " Meropenem (dưới dạng Meropenem trihydrat) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "38.000",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MET.613.G1.N4.254 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Metronidazol 250mg ",
+   "Tên hoạt chất": " Metronidazol ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "134",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MET.280325.39.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Metronidazol Kabi 500mg/100ml ",
+   "Tên hoạt chất": " Metronidazol ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "6.207",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MET.675.61.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Metronidazol Kabi 500mg ",
+   "Tên hoạt chất": " Metronidazol ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "7.559",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MOX.675.7.G1.N3 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Moxacin 500 mg 500mg ",
+   "Tên hoạt chất": " Amoxicilin ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.200",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MUL.317.78.G1.N3 ",
+   "Tên thuốc, nồng độ, hàm lượng": " MULPAX S-250 250mg ",
+   "Tên hoạt chất": " Cefuroxim ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "7.980",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " NAF.180325.16.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Nafloxin solution for infusion 200mg/100ml 200mg/ 100ml ",
+   "Tên hoạt chất": " Ciprofloxacin ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "34.900",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " NIF.08.31.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Nifedipin Hasan 20 Retard 20mg ",
+   "Tên hoạt chất": " Nifedipin ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "525",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " NO-.08.30.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " No-Spa forte 80mg ",
+   "Tên hoạt chất": " Drotaverin clohydrat ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.158",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " OCI.92.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " OCID 20mg ",
+   "Tên hoạt chất": " Omeprazole (dạng hạt bao tan trong ruột) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "215",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " OFL.1601.10.G2N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Oflovid ophthalmic ointment 0,3% ",
+   "Tên hoạt chất": " Ofloxacin ",
+   "Đơn vị tính": " Tuýp ",
+   "Đơn giá (có VAT)": "74.530",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " ORA.52.2.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Oramycin 750mg 750mg ",
+   "Tên hoạt chất": " Cefuroxim (dưới dạng Cefuroxim Sodium) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "9.620",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " ORG.1217.1617 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Orgametril 5mg ",
+   "Tên hoạt chất": " Lynestrenol ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.900",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " OXA.08.5.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Oxacillin 1g 1g ",
+   "Tên hoạt chất": " Oxacilin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "28.980",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " PHA.08.36.1.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Pharmox IMP 250mg 250mg ",
+   "Tên hoạt chất": " Amoxicilin ",
+   "Đơn vị tính": " Gói ",
+   "Đơn giá (có VAT)": "4.950",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " RED.675.44.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Redivec 100mg ",
+   "Tên hoạt chất": " Imatinib ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "19.696",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " ROC.67.G2.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Rocephin 1g I.V 1g ",
+   "Tên hoạt chất": " Ceftriaxone (dưới dạng Ceftriaxone natri) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "140.416",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " SPA.613.G1.N4.22 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Spas-Agi 60 60mg ",
+   "Tên hoạt chất": " Alverin citrat ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "420",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " SUL.280325.57.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Sulfadiazin bạc 1% tl/tl - 20g ",
+   "Tên hoạt chất": " Sulfadiazin bạc ",
+   "Đơn vị tính": " Tuýp ",
+   "Đơn giá (có VAT)": "19.887",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " SUL.280325.58.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Sulfadiazin bạc 1% tl/tl - 200g ",
+   "Tên hoạt chất": " Sulfadiazin bạc ",
+   "Đơn vị tính": " Hủ ",
+   "Đơn giá (có VAT)": "132.000",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " TAZ.675.84.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Tazopelin 4,5g 4g + 0,5g ",
+   "Tên hoạt chất": " Piperacilin + tazobactam ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "69.993",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " TEN.87.6.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Tenamyd-Cefotaxime 1000 1000mg ",
+   "Tên hoạt chất": " Cefotaxim (dưới dạng Cefotaxim natri) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "11.361",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " TEN.97.5.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Tenamyd-Ceftazidime 1000 1000mg ",
+   "Tên hoạt chất": " Ceftazidim (dưới dạng Ceftazidim pentahydrat) ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "19.488",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " TET.1074.37.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Tetracyclin 1% 1%/5g ",
+   "Tên hoạt chất": " Tetracyclin hydroclorid ",
+   "Đơn vị tính": " Tuýp ",
+   "Đơn giá (có VAT)": "3.050",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " TIC.317.85.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Ticarlinat 1,6 g 1,5g + 0,1g ",
+   "Tên hoạt chất": " Ticarcillin + acid clavulanic ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "104.500",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " TIC.675.100.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Ticarlinat 3,2g 3,0g + 0,2g ",
+   "Tên hoạt chất": " Ticarcillin + acid clavulanic ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "165.000",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " TOB.1601.8.G2N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Tobrex 3mg/ml ",
+   "Tên hoạt chất": " Tobramycin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "39.999",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " TYR.317.190.1.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Tyrosur Gel 0,1%/5g ",
+   "Tên hoạt chất": " Tyrothricin ",
+   "Đơn vị tính": " Tuýp ",
+   "Đơn giá (có VAT)": "60.900",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " VIA.614.G2.N1.242 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Viagra 50mg ",
+   "Tên hoạt chất": " Sildenafil (dưới dạng Sildenafil citrat) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "116.640",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " VIA964.81 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Viagra 50mg ",
+   "Tên hoạt chất": " Sildenafil (dưới dạng Sildenafil citrat) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "116.640",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " VIN.MP.1125.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinphacine 250 250mg/2ml ",
+   "Tên hoạt chất": " Amikacin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "7.760",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " VOX.317.115.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Voxin 500mg ",
+   "Tên hoạt chất": " Vancomycin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "64.995",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " VOX.675.108.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Voxin 1000mg ",
+   "Tên hoạt chất": " Vancomycin ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "88.200",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " ZIN.1601.7.G2N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Zinnat Suspension 125mg/5ml, 50ml ",
+   "Tên hoạt chất": " Cefuroxim ",
+   "Đơn vị tính": " Chai ",
+   "Đơn giá (có VAT)": "121.617",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " HAL.1375.1848 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Haloperidol 1,5 mg 1,5mg ",
+   "Tên hoạt chất": " Haloperidol ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "80",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " PIR.87.1.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Pracetam 800 800mg ",
+   "Tên hoạt chất": " Piracetam ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.225",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " ACI.VP.103.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Aciclovir 200mg 200mg ",
+   "Tên hoạt chất": " Aciclovir ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "404",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " AGI.317.127.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " AGIFAMCIN 300 300mg ",
+   "Tên hoạt chất": " Rifampicin ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "2.180",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " AGI.280325.64.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Agirenyl 5000 IU ",
+   "Tên hoạt chất": " Vitamin A ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "252",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " ASP.1074.61.1.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " ASPIRIN 81 81mg ",
+   "Tên hoạt chất": " Acetylsalicylic acid (DL-lysin-acetylsalicylat) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "56",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " BER.08.8.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Berlthyrox 100 100mcg ",
+   "Tên hoạt chất": " Levothyroxin (muối natri) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "720",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " BID.1375.977 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Bidiferon 50mg Fe + 350mcg ",
+   "Tên hoạt chất": " Sắt sulfat + folic acid ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "500",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " BID.180325.47.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Bidivon 400mg ",
+   "Tên hoạt chất": " Ibuprofen ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "250",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " BIO.317.62.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Biocemet DT 500mg/62,5mg 500mg + 62,5mg ",
+   "Tên hoạt chất": " Amoxicilin + acid clavulanic ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "9.450",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " CAL.280325.12.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Calcium Stella 500 mg 300mg + 2.940mg ",
+   "Tên hoạt chất": " Calci carbonat+ calci gluconolactat ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "3.500",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " CAP.08.3.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Captagim 25mg ",
+   "Tên hoạt chất": " Captopril ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "120",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " CEP.52.4.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Cephalexin PMP 500 500mg ",
+   "Tên hoạt chất": " Cefalexin (dưới dạng Cefalexin monohydrate) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.350",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " CIP.67.ĐC.G2.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Ciprobay 500 500mg ",
+   "Tên hoạt chất": " Ciprofloxacin (Ciprofloxacin Hydrochloride) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "13.224",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " CLO.08.39.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Clorpheniramin 4mg Chlorpheniramin maleat ",
+   "Tên hoạt chất": " Chlorpheniramin (hydrogen maleat) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "65",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " COR.180325.6.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Cordarone 200mg ",
+   "Tên hoạt chất": " Amiodaron hydroclorid ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "6.750",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " COT.180325.90.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Cotrimoxazol 480mg 400mg + 80mg ",
+   "Tên hoạt chất": " Sulfamethoxazol + trimethoprim ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "230",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " DES.317.28.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Desloratadin ODT 5 5mg ",
+   "Tên hoạt chất": " Desloratadin ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.260",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " DOP.280325.38.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Dopegyt 250mg ",
+   "Tên hoạt chất": " Methyldopa ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "2.400",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " DUH.1217.1004 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Duhemos 500 500mg ",
+   "Tên hoạt chất": " Tranexamic acid ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "2.499",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " DUP.280225.7.G2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Duphaston 10mg ",
+   "Tên hoạt chất": " Dydrogesteron ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "8.888",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " DUP.675.28.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Duphaston 10mg ",
+   "Tên hoạt chất": " Dydrogesteron ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "8.888",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " EFF.317.23.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Efferalgan 500mg ",
+   "Tên hoạt chất": " Paracetamol (acetaminophen) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "2.373",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " Eth159.G1N3 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Ethambutol 400mg 400mg ",
+   "Tên hoạt chất": " Ethambutol HCl ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.300",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " HAD.180325.89.G1N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Hadulacton 25 25mg ",
+   "Tên hoạt chất": " Spironolacton ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.575",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " IFA.VP.91.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " IFATRAX 100mg ",
+   "Tên hoạt chất": " Itraconazol ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "2.750",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " INC.1074.117.1.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Incepavit 400 capsule 400mg ",
+   "Tên hoạt chất": " Vitamin E ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.800",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " JAD.317.168.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Jadenu 180mg 180mg ",
+   "Tên hoạt chất": " Deferasirox ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "188.765",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " KAL.180325.52.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Kali Clorid 500mg ",
+   "Tên hoạt chất": " Kali clorid ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "800",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " KAT.08.37.1.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Katrypsin 4200 IU ",
+   "Tên hoạt chất": " Alpha chymotrypsin ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "205",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " KEP.1601.4.G2N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Keppra 500mg ",
+   "Tên hoạt chất": " Levetiracetam ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "15.470",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MAG.280325.65.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Magisix 5mg + 470mg ",
+   "Tên hoạt chất": " Vitamin B6 + magnesi lactat ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "120",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MED.317.79.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Medaxetine 500mg 500mg ",
+   "Tên hoạt chất": " Cefuroxim ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "17.400",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MED.87.2.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Medoxasol 500mg 500mg ",
+   "Tên hoạt chất": " Levofloxacin (dưới dạng Levofloxacin hemihydrat) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "7.266",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MED.180325.64.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Medrol 16mg ",
+   "Tên hoạt chất": " Methyl prednisolon ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "3.930",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MET.317.66.G1.N3 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Metiny 375mg ",
+   "Tên hoạt chất": " Cefaclor ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "9.900",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MIF.280325.VP.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Mifepristone 200 200mg ",
+   "Tên hoạt chất": " Mifepriston ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "51.000",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " MIF.280325.MOI.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Mifetone 200mcg 200mcg ",
+   "Tên hoạt chất": " Misoprostol ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "3.500",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " NIF.317.183.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Nifedipin T20 retard 20mg ",
+   "Tên hoạt chất": " Nifedipin ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "600",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " NOR.317.215.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " NORMAGUT 2,5x10^9 tế bào/250mg ",
+   "Tên hoạt chất": " Saccharomyces boulardii ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "6.780",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " NO-.180325.25.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " No-spa forte 80mg ",
+   "Tên hoạt chất": " Drotaverin clohydrat ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.158",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " NYS.08.2.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Nystatab 500.000UI ",
+   "Tên hoạt chất": " Nystatin ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "920",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " ORG.180325.58.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Orgametril 5mg ",
+   "Tên hoạt chất": " Lynestrenol ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "2.360",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "4"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " PAR.317.22.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " PARTAMOL TAB. 500mg ",
+   "Tên hoạt chất": " Paracetamol (acetaminophen) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "480",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " PMS.317.170.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " pms-Deferasirox 125 mg 125mg ",
+   "Tên hoạt chất": " Deferasirox ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "76.000",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " POL.613.G1.N1.282 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Polygynax 35.000IU+ 35.000IU+ 100.000 IU ",
+   "Tên hoạt chất": " Nystatin + neomycin + polymyxin B ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "9.500",
+   "KHO": " KT1 ",
+   "Tủ": " K3 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " PRE.675.85.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Prednisolon 5mg ",
+   "Tên hoạt chất": " Prednisolon acetat (natri phosphate) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "100",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " PRO.317.226.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Progesterone 200mg 200mg ",
+   "Tên hoạt chất": " Progesteron ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "14.000",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " PRO.180325.22.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Propess 10mg ",
+   "Tên hoạt chất": " Dinoproston ",
+   "Đơn vị tính": " Túi ",
+   "Đơn giá (có VAT)": "934.500",
+   "KHO": " KT1 ",
+   "Tủ": " TĐ ",
+   "Tầng": " Tủ đông "
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " SAD.317.24.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Sadapron 100 100mg ",
+   "Tên hoạt chất": " Allopurinol ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.750",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " SAL.180325.33.2.G1N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Salgad 150mg ",
+   "Tên hoạt chất": " Fluconazol ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "6.949",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " SAV.317.54.1.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " SaVi Albendazol 200 200mg ",
+   "Tên hoạt chất": " Albendazol ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.800",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " SAV.317.112.G1.N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " SaViLifen 600 600mg ",
+   "Tên hoạt chất": " Linezolid* ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "16.800",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " SIN.1601.19.G2N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Singulair 5mg 5mg ",
+   "Tên hoạt chất": " Natri montelukast ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "13.502",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " SUN.1217.341 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Suntopirol 25 25mg ",
+   "Tên hoạt chất": " Topiramat ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "3.380",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " TAM.317.120.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Tamiflu 75mg ",
+   "Tên hoạt chất": " Oseltamivir* ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "44.877",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " TAT.1217.144 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Tatanol Trẻ em 120mg ",
+   "Tên hoạt chất": " Paracetamol (acetaminophen) ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "250",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " TUR.1323.G1N3.2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Turbe 150mg+ 100mg ",
+   "Tên hoạt chất": " Rifampicin + isoniazid ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.748",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " TUR.MOI.159.G1.N3 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Turbezid 150mg + 75mg + 400mg ",
+   "Tên hoạt chất": " Rifampicin + Isoniazid + Pyrazinamid ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "2.798",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " Tur159.1G1N3 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Turbezid 150mg + 75mg + 400mg ",
+   "Tên hoạt chất": " Rifampicin + Isoniazid + Pyrazinamid ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "2.798",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " URU.180325.95.G1N2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Uruso 100mg ",
+   "Tên hoạt chất": " Ursodeoxycholic acid ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "5.900",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " VIN.280325.1.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vincerol 1mg 1mg ",
+   "Tên hoạt chất": " Acenocoumarol ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "265",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " VIN.08.24.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinpha E 400IU ",
+   "Tên hoạt chất": " Vitamin E ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "550",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " VIN.280325.25.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vinzix 40mg ",
+   "Tên hoạt chất": " Furosemid ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "96",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " VOL.1601.3.G2N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Voltaren 100mg ",
+   "Tên hoạt chất": " Diclofenac ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "15.600",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " VOL.280225.3.G2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Voltaren 100mg ",
+   "Tên hoạt chất": " Diclofenac ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "15.602",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " ZIN.280325.33.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Zinc 10 10mg (tính theo kẽm nguyên tố) ",
+   "Tên hoạt chất": " Kẽm gluconat ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "130",
+   "KHO": " KT1 ",
+   "Tủ": " K1 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " KSV ",
+   "Mã dược": " ZIN.280225.6.G2 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Zinnat tablets 500mg 500mg ",
+   "Tên hoạt chất": " Cefuroxim ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "22.130",
+   "KHO": " KT1 ",
+   "Tủ": " K2 ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " HT ",
+   "Mã dược": " DIA.08.20.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Diazepam 10mg/2ml 10mg/2ml ",
+   "Tên hoạt chất": " Diazepam ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "5.250",
+   "KHO": " KT1 ",
+   "Tủ": " HT ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " HT ",
+   "Mã dược": " DIA.675.25.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Diazepam 10mg/2ml 10mg/2ml ",
+   "Tên hoạt chất": " Diazepam ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "5.250",
+   "KHO": " KT1 ",
+   "Tủ": " HT ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " HT ",
+   "Mã dược": " EPH.180325.27.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Ephedrine Hydrochloride Injection 30 mg in 1 ml 30mg/ml; 1ml ",
+   "Tên hoạt chất": " Ephedrin (hydroclorid) ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "57.750",
+   "KHO": " KT1 ",
+   "Tủ": " HT ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " HT ",
+   "Mã dược": " GAR.317.48.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Garnotal 10 10 mg ",
+   "Tên hoạt chất": " Phenobarbital ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "140",
+   "KHO": " KT1 ",
+   "Tủ": " HT ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " HT ",
+   "Mã dược": " PHE.317.47.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Phenobarbital 100mg ",
+   "Tên hoạt chất": " Phenobarbital ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "292",
+   "KHO": " KT1 ",
+   "Tủ": " HT ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " HT ",
+   "Mã dược": " SED.317.250.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Seduxen 5mg 5mg ",
+   "Tên hoạt chất": " Diazepam ",
+   "Đơn vị tính": " Viên ",
+   "Đơn giá (có VAT)": "1.260",
+   "KHO": " KT1 ",
+   "Tủ": " HT ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " HT ",
+   "Mã dược": " ZOD.317.10.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Zodalan 5mg/1ml ",
+   "Tên hoạt chất": " Midazolam ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "15.750",
+   "KHO": " KT1 ",
+   "Tủ": " HT ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " GN ",
+   "Mã dược": " FEN.574.2.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Fentanyl - Hameln 50mcg/ml 50mcg/ml ",
+   "Tên hoạt chất": " Fentanyl ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "14.300",
+   "KHO": " KT1 ",
+   "Tủ": " GN ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " GN ",
+   "Mã dược": " FEN.180325.30.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Fentanyl- Hameln 50mcg/ml 50mcg/ml ",
+   "Tên hoạt chất": " Fentanyl ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "17.010",
+   "KHO": " KT1 ",
+   "Tủ": " GN ",
+   "Tầng": "3"
+ },
+ {
+   "Nhóm": " GN ",
+   "Mã dược": " MOR.675.65.G1.N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Morphin (Morphin hydroclorid 10mg/ml) 10mg ",
+   "Tên hoạt chất": " Morphin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "6.993",
+   "KHO": " KT1 ",
+   "Tủ": " GN ",
+   "Tầng": "2"
+ },
+ {
+   "Nhóm": " GN ",
+   "Mã dược": " PET.675.83.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Pethidine- hameln 50mg/ml 100mg ",
+   "Tên hoạt chất": " Pethidin ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "19.488",
+   "KHO": " KT1 ",
+   "Tủ": " GN ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " ABH.134.26.G1N5 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Abhayrab ≥ 2,5 IU/0,5ml ",
+   "Tên hoạt chất": " Vắc xin phòng dại Virus dại bất hoạt (chủng L. Pasteur 2061/Vero được nhân giống trên tế bào Vero) ≥ 2,5 IU ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "183.750",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " AVA.134.MOI.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Avaxim 80U Pediatric 80U/ 0,5ml ",
+   "Tên hoạt chất": " Vắc xin phòng Viêm gan A (bất hoạt, hấp phụ) Virus viêm gan A bất hoạt (chủng GBM) 80U/ 0,5ml ",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "436.328",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " BEX.344.3.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Bexsero 0,5ml ",
+   "Tên hoạt chất": "###############################################################################################################################################################################################################################################################",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "1.529.926",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " BOO.344.4.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Boostrix 0,5ml ",
+   "Tên hoạt chất": " Vắc xin phối hợp phòng Bạch hầu - Ho gà - Uốn ván 1 liều 0,5ml chứa: Giải độc tố bạch hầu ≥ 2 IU; Giải độc tố uốn ván ≥ 20 IU; Giải độc tố ho gà 8 µg; Filamentous Haemagglutinin( ngưng kết tố hồng cầu dạng sợi) 8 µg; Pertactin 2,5 µg ",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "598.000",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " GAR.134.5.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Gardasil 9 0,5ml ",
+   "Tên hoạt chất": " Vắc xin phòng ung thư cổ tử cung Mỗi liều 0,5mL chứa 30mcg protein L1 HPV týp 6; 40mcg protein L1 HPV týp 11; 60mcg protein L1 HPV týp 16; 40mcg protein L1 HPV týp 18; 20mcg protein L1 HPV cho mỗi týp 31,33,45,52 và 58 ",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "2.572.500",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " GAR.ĐC.134.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Gardasil 9 0,5ml ",
+   "Tên hoạt chất": " Vắc xin phòng ung thư cổ tử cung Mỗi liều 0,5mL chứa 30mcg protein L1 HPV týp 6; 40mcg protein L1 HPV týp 11; 60mcg protein L1 HPV týp 16; 40mcg protein L1 HPV týp 18; 20mcg protein L1 HPV cho mỗi týp 31,33,45,52 và 58 ",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "2.572.500",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " HEX.134.31.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Hexaxim 0,5ml ",
+   "Tên hoạt chất": "###############################################################################################################################################################################################################################################################",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "865.200",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " IMO.134.9.G1N5 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Imojev 0,5ml ",
+   "Tên hoạt chất": " Vắc xin phòng Viêm não Nhật Bản (sống giảm độc lực) Mỗi liều 0,5 ml vắc xin hoàn nguyên chứa: Virus Viêm não Nhật Bản chủng SA14-14-2 tái tổ hợp, sống, giảm độc lực 4,0 - 5,8 log PFU ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "632.016",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " INF.134.12.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Infanrix Hexa 0,5ml ",
+   "Tên hoạt chất": "###############################################################################################################################################################################################################################################################",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "864.000",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " INF.344.10.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Influvac Tetra 0,5ml ",
+   "Tên hoạt chất": "###############################################################################################################################################################################################################################################################",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "264.000",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " MEN.344.11.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Menactra 0,5ml ",
+   "Tên hoạt chất": "###############################################################################################################################################################################################################################################################",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "1.102.000",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " M-M.134.6.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " M-M-R II 0,5ml ",
+   "Tên hoạt chất": " Vắc xin sống vi rút sởi, quai bị và rubella Vi-rút sởi >= 1.000 CCID50;  Vi rút Quai bị >=12.500 CCID50; Vi rút Rubella >=1.000 CCID50 ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "217.256",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " PRE.134.11.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Prevenar 13 0,5ml ",
+   "Tên hoạt chất": "###############################################################################################################################################################################################################################################################",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "1.077.300",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " PRI.344.14.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Priorix 0,5ml ",
+   "Tên hoạt chất": "###############################################################################################################################################################################################################################################################",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "270.000",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " ROT.134.2.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Rotarix 1,5ml ",
+   "Tên hoạt chất": " Vắc xin phòng tiêu chảy do  rotavirus Mỗi liều 1,5ml chứa Rotavirus ở người sống giảm độc lực, chủng RIX4414 ≥ 10^6.0 CCID50 ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "700.719",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " ROT.344.17.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " RotaTeq 2ml ",
+   "Tên hoạt chất": "###############################################################################################################################################################################################################################################################",
+   "Đơn vị tính": " Túi ",
+   "Đơn giá (có VAT)": "535.320",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " SYN.134.4.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Synflorix 0,5ml ",
+   "Tên hoạt chất": "###############################################################################################################################################################################################################################################################",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "829.900",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " TET.134.MOI.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Tetraxim 0,5ml ",
+   "Tên hoạt chất": "###############################################################################################################################################################################################################################################################",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "418.827",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " TWI.134.3.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Twinrix 1ml ",
+   "Tên hoạt chất": " Vắc xin phòng viêm gan A bất hoạt và viêm gan B tái tổ hợp rDNA (hấp phụ) Mỗi liều 1,0ml chứa:\nVirus Viêm gan A( bất hoạt): 720 đơn vị Elisa; Kháng nguyên bề mặt virus Viêm gan B: 20mcg ",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "469.900",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " VAC.134.21.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vắc xin phòng bệnh lao (BCG) 0,5mg ",
+   "Tên hoạt chất": " Vắc xin phòng lao Mỗi ống (10 liều) chứa: BCG sống, đông khô 0,5mg ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "69.300",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " VAC.134.20.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vắc xin uốn ván hấp phụ (TT) ≥ 40 IU/0,5ml ",
+   "Tên hoạt chất": " Vắc xin phòng uốn ván Giải độc tố uốn ván tinh chế ≥ 40 IU/0,5ml ",
+   "Đơn vị tính": " Ống ",
+   "Đơn giá (có VAT)": "14.784",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " VAC.134.19.G1N4 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vắc xin viêm gan B tái tổ hợp Gene -Hbvax ≈ 20µg/1ml ",
+   "Tên hoạt chất": " Vắc xin phòng viêm gan B tái tổ hợp Kháng nguyên bề mặt vi rút viêm gan B tinh khiết ≈ 20µg/1ml ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "80.640",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " VAC.512.G1.N4.5 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vắc xin viêm gan B tái tổ hợp Gene -Hbvax Kháng nguyên bề mặt vi rút viêm gan B tinh khiết ≈ 10µg/0,5ml ",
+   "Tên hoạt chất": " Vắc xin phòng viêm gan B ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "56.070",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " VA-.344.25.G1.N5 ",
+   "Tên thuốc, nồng độ, hàm lượng": " VA-MENGOC-BC 0,5ml ",
+   "Tên hoạt chất": " Vắc xin phòng não mô cầu. Mỗi liều 0,5ml chứa: Protein màng ngoài não mô cầu nhóm B 50µg; Polysaccharide vỏ não mô cầu nhóm C 50µg ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "175.392",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " VAR.134.8.G1N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Varivax ≥ 1350PFU/0,5ml ",
+   "Tên hoạt chất": " Vắc xin phòng thủy đậu Oka/Merck varicella virus, live, attenuated ≥ 1350PFU/lọ ",
+   "Đơn vị tính": " Lọ ",
+   "Đơn giá (có VAT)": "872.195",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " VAX.344.26.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vaxigrip Tetra 0,5ml ",
+   "Tên hoạt chất": "###############################################################################################################################################################################################################################################################",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "270.000",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
+ },
+ {
+   "Nhóm": " VX ",
+   "Mã dược": " VAX.344.12.G1.N1 ",
+   "Tên thuốc, nồng độ, hàm lượng": " Vaxneuvance 0,5ml ",
+   "Tên hoạt chất": "###############################################################################################################################################################################################################################################################",
+   "Đơn vị tính": " Bơm tiêm ",
+   "Đơn giá (có VAT)": "1.400.000",
+   "KHO": " KT1 ",
+   "Tủ": " VX1 ",
+   "Tầng": "1"
  }
 ]
